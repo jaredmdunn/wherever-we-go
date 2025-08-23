@@ -22,7 +22,7 @@ title: Wherever We Go SRD
 description: >- # this means to ignore newlines until "baseurl:"
   Wherever We Go is TTRPG that is Forged in the Dark with the Year Zero Engine
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jaredmdunn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jaredmdunn.github.io/wherever-we-go/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jaredmdunn
 
 # Build settings
