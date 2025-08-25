@@ -2,7 +2,7 @@
 title: Modes of the Game
 layout: default
 parent: Introduction
-nav_oder: 2
+nav_order: 2
 ---
 
 # Modes of the Game
