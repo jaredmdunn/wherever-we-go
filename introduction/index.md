@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: default
+nav_order: 1
 ---
 # Introduction
 *Wherever We Go* is a tabletop roleplaying game (TTRPG) based on *Blades in the Dark* and the *Year Zero Engine* with heavy inspiration from *Dungeons & Dragons*, *Daggerheart*, *Microscope*, *Kids on Bikes*, and *Mythras* among many others.
