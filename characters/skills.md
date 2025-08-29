@@ -8,11 +8,11 @@ nav_order: 4
 Skills represent the knowledge, training, and experience your character has gained over time. While attributes reflect your natural potential, skills reflect what you've learned to do with that potential. Together, skills and attributes determine how effective your character is when taking actions in the world.
 
 Skills have a die-rating from a **0** to a **D12**:
-- **0** - Untrained  
-- **D6** - Novice  
-- **D8** - Experienced  
-- **D10** - Veteran  
-- **D12** - Elite  
+- **0** - Untrained
+- **D6** - Novice
+- **D8** - Experienced
+- **D10** - Veteran
+- **D12** - Elite
 
 Each skill is based on one attribute. Whenever you take an action, you will roll the dice associated with the attribute and with the skill.  
 
