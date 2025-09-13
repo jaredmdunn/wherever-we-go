@@ -2,7 +2,7 @@
 title: Tools of the Game
 layout: default
 parent: Introduction
-nav_order: 1
+nav_order: 2
 ---
 # Tools of the Game
 The heart of *Wherever We Go* is the fiction—the shared story you and your group bring to life together. Everything begins with what the characters say and do, and how the world responds. But while the story comes first, the tools of the game—dice, clocks, tokens, and sheets—are there to make play richer. They inject tension and discovery into play, while also keeping the game organized and easy to follow as the story grows more complex.
