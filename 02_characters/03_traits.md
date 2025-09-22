@@ -2,7 +2,7 @@
 title: Traits
 layout: default
 parent: Characters
-nav_order: 5
+nav_order: 3
 ---
 # Traits
 Traits are the fixed, defining characteristics that set each character and creature apart in *Wherever We Go*. Rather than relying on broad categories like “race,” “ancestry,” or “species,” this system uses traits to describe the natural features, strengths, and limitations that make your character unique.
@@ -26,10 +26,10 @@ Traits fall into several broad categories. Each is described below, with sample 
 ### Aptitudes
 
 #### Natural (*Attribute*)
-Skills within the specified attribute come more naturally to you. When you make Practice rolls to improve a skill in that attribute, roll two dice instead of one and keep the higher result.
+Skills within the specified attribute come more naturally to you. You have advantage on practice rolls with that attribute.
 
 #### Unnatural (*Attribute*)
-Skills within the specified attribute do not come naturally. When you make Practice rolls to improve a skill in that attribute, roll two dice instead of one and keep the lower result.
+Skills within the specified attribute do not come naturally. You have disadvantage on practice rolls with that attribute.
 
 ---
 
@@ -39,23 +39,23 @@ Skills within the specified attribute do not come naturally. When you make Pract
 You are significantly smaller than the average human—child-sized, halfling-like, or a diminutive construct.
 - **Stealth Bonus:** Advantage on Stealth rolls where small size helps you hide, squeeze, or avoid notice.
 - **Manipulation Bonus:** Advantage on Manipulation rolls where small size helps you appear harmless or unimportant.
-- **Physique Limit:** Your Physique cannot be rated higher than a d8.
+- **Physique Limit:** Your Physique cannot be rated higher than a D8.
 
 #### Larger
 You are notably larger than the average human—like ogres, large robots, or genetically enhanced beings.
 - **Might/Menace Bonus:** Advantage on Might or Menace rolls where size and mass are advantageous.
 - **Stealth Penalty:** Disadvantage on Stealth rolls where size makes hiding or moving quietly difficult.
-- **Physique Minimum:** Your Physique cannot be rated lower than a d10.
+- **Physique Minimum:** Your Physique cannot be rated lower than a D10.
 
 ---
 
 ### Natural Weapons and Armor
 
 #### Natural Weapon (*Weapon*)
-You possess a built-in weapon (claws, fangs, horns, tail, etc.). Your natural weapon has a die rating (D6, D8, D10, D12). Add this die when you make an attack with your natural weapon. Your natural weapon can never be degraded.
+You possess a built-in weapon (claws, fangs, horns, tail, etc.). Your natural weapon has a die rating (D6, D8, D10, or D12). Add this die when you make an attack with your natural weapon. Your natural weapon can never be degraded.
 
 #### Natural Armor (*Armor*)
-You are protected by thick hide, scales, or exoskeleton. Natural armor has a die rating (D6, D8, D10, D12). When you take physical damage, roll your natural armor die along with any worn armor; each edge reduces damage by 1. Natural armor cannot be degraded or broken by ordinary means.
+You are protected by thick hide, scales, or exoskeleton. Natural armor has a die rating (D6, D8, D10, or D12). When you take physical damage, roll your natural armor die along with any worn armor; each edge reduces damage by 1. Natural armor cannot be degraded or broken by ordinary means.
 
 ---
 
@@ -75,10 +75,10 @@ You are unaffected by the specified effect.
 ### Sensory
 
 #### Sharp (*Sense*)
-One sense (sight, smell, hearing, etc.) is exceptionally keen. Gain advantage on Observation rolls where it applies.
+One sense (sight, smell, hearing, etc.) is exceptionally keen. Gain advantage on Observation rolls where that sense is especially useful.
 
 #### Dull (*Sense*)
-One sense is weaker than average. Suffer disadvantage on Observation rolls where it applies.
+One sense is weaker than average. Suffer disadvantage on Observation rolls where that sense is especially useful.
 
 #### Darkvision
 You can see in darkness as well as daylight.

@@ -1,16 +1,16 @@
 ---
-title: Modes of the Game
+title: The Flow of the Game
 layout: default
 parent: Introduction
-nav_order: 3
+nav_order: 4
 ---
 
-# Modes of the Game
+# The Flow of the Game
 A session of *Wherever We Go* flows between different modes of play, depending on what the players want and where the action leads. There are five distinct modes of play and one session may have all of these, a mix, or just one:
 
 ## Worldbuilding
 
-**Worldbuilding** typically takes place in the very first session of play. This is where all players, including the GM collaborate together to create the world that the game will take place in. In the first session, players will create their characters, but they will also get the chance to contribute to the lore, the map, the NPCs, etc. This helps invest everyone in the world that you are discovering together and it doesn't give the burden of the whole world (or the fun of it) to just the GM. Worldbuilding is very useful at the beginning of the game to set the genre, tone, and expectations, but it can also be fun later on to offer a change of pace or to introduce a new character/place/religion/etc.
+**Worldbuilding** typically takes place in the very first session of play. This is where all players, including the GM collaborate together to create the world that the game will take place in. In the first session, players will create their characters, but they will also get the chance to contribute to the lore, the map, the NPCs, etc. This helps invest everyone in the world that you are discovering together and it doesn't give the burden of the whole world (or the fun of it) to just the GM. Worldbuilding is very useful at the beginning of the game to set the genre, tone, and expectations, but it can also be fun later on to offer a change of pace or to introduce a new character/place/religion/faction/etc.
 
 ## Free Play
 

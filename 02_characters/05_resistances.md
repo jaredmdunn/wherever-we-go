@@ -2,7 +2,7 @@
 title: Resistances
 layout: default
 parent: Characters
-nav_order: 2
+nav_order: 5
 ---
 # Resistances  
 Resistances represent a character’s ability to endure consequences—whether physical, mental, or emotional. They are the measure of how much strain your body and mind can take before suffering lasting harm.  
