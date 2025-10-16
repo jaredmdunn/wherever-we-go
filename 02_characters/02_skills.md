@@ -7,8 +7,8 @@ nav_order: 2
 # Skills
 Skills represent the knowledge, training, and experience your character has gained over time. While attributes reflect your natural potential, skills reflect what you've learned to do with that potential. Together, skills and attributes determine how effective your character is when taking actions in the world.
 
-Skills have a die-rating from a **0** to a **D12**:
-- **0** - Untrained
+Skills have a die-rating from a **D4** to a **D12**:
+- **D4** - Untrained
 - **D6** - Novice
 - **D8** - Experienced
 - **D10** - Veteran
@@ -18,51 +18,51 @@ Each skill is based on one attribute. Whenever you take an action, you will roll
 
 ---
 
-## Physique
+## Strength
 
-### Melee
-Close combat with weapons—from swords to axes to blunt instruments.
+### Heft
+Sustaining and moving heavy loads—lifting, carrying, dragging, and wearing weight without faltering.
 
 Examples:
-- Crossing blades with a skilled duelist.
-- Swinging an axe to break a shield wall.
-- Fending off a beast with a spear.
+- Hoisting a fallen beam to free a trapped worker.
+- Dragging an unconscious ally across rubble.
+- Marching long distances in plate without slowing.
+
+### Burst
+Explosive, short-burst force—hits, kicks, rams, and heaves that break stalemates or obstacles.
+
+Examples:
+- Kicking a barred door off its hinges.
+- Driving a foe backward with a shield bash.
+- Heaving a heavy grappling hook up to a parapet.
+
+### Anchor
+Grip dominance and full-body bracing—pinning, holding, and resisting displacement.
+
+Examples:
+- Holding a doorway against a rush of bodies.
+- Pinning a bandit until they drop their knife.
+- Keeping your weapon in a tug-of-war.
 
 ### Menace
-Using presence and physicality to intimidate, dominate, or cow others, sometimes without even saying a word.
+Commanding compliance through imposing presence and obvious power.
 
 Examples:
-- Forcing a captive to reveal information.
-- Silencing a room with an imposing glare.
-- Looming over someone to make them back down.
-
-### Might
-Raw physical power—lifting, pushing, smashing, and overpowering with brute strength. Also used for unarmed combat.
-
-Examples:
-- Wrestling an enemy to the ground.
-- Breaking down a locked door.
-- Holding up a collapsing beam long enough for others to escape.
-
-### Mobility
-Speed, balance, and ability to maneuver with precision—running, jumping, tumbling, climbing, etc.
-
-Examples:
-- Sprinting across a collapsing bridge.
-- Scaling a high wall without gear.
-- Dodging through a crowded marketplace.
+- Silencing a rowdy crowd by stepping forward and crowding the space.
+- Staring down a bouncer to make them think twice.
+- Backing thugs off an ally without throwing a punch.
 
 ---
 
-## Precision
+## Dexterity
 
-### Dexterity
-Fine motor skills and nimbleness of the hands, useful for delicate or precise tasks.
+### Precision
+Fine handwork and practical craftsmanship—steady fingers for delicate tasks and the know-how to build, repair, or modify gear.
 
 Examples:
 - Picking a noble’s pocket unnoticed.
-- Lockpicking under pressure.
-- Tying a secure climbing harness.
+- Rigging a makeshift trap.
+- Repairing a broken crossbow.
 
 ### Marksmanship
 Accuracy with ranged weapons—from thrown objects to bows to firearms.
@@ -80,13 +80,13 @@ Examples:
 - Disappearing into the shadows of an alley.
 - Stalking prey through underbrush.
 
-### Tinkering
-The ability to build, repair, or modify tools, structures, and gear.
+### Mobility
+Speed, balance, and ability to maneuver with precision—running, jumping, tumbling, climbing, etc.
 
 Examples:
-- Rigging a makeshift trap.
-- Repairing a broken crossbow.
-- Upgrading an ally’s armor with scavenged parts.
+- Sprinting across a collapsing bridge.
+- Scaling a high wall without gear.
+- Dodging through a crowded marketplace.
 
 ---
 
