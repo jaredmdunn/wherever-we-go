@@ -12,11 +12,13 @@ To make an action roll:
 
 1. **Describe your action.** Say what your character is doing and what your goal is.
 2. **Choose a skill.** Work with the GM to decide which skill best matches your approach.
-3. **Set position and effect.** The GM establishes the position (the risk of consequences) and the effect (the potential outcome) of your action.
-4. **Assemble your dice.** Roll your attribute die for the skill you are using, plus the die for the skill itself if you have it trained.
-5. **Add extra dice.** Include any advantage or disadvantage dice, stress dice, gear dice, or drive dice that apply.
-6. **Resolve the roll.** Count your **edges**: a result of 6+ gives 1 edge, while a 10+ gives 2 edges.
-7. **Push if you must.** If you are unsatisfied with your result, you may push the roll by adding a stress die and rerolling everything.
+3. **Set the position.** The GM establishes the position (the risk of consequences) of your action. See [Position](#position).
+4. **Assemble your base dice.** Your base dice consist of your attribute die and the related skill die.
+5. **Apply bonuses and penalties.** Step dice up or down as described in [Bonuses and Penalties](#bonuses-and-penalties).
+6. **Add talent die if relevant.** If your roll is using a talent, add the talent die.
+7. **ROLL.**
+8. **Based on the result, decide if you want to push yourself.** If you push, gain 1 stress and add a number of D6s equal to your level of stress. **ROLL AGAIN**.
+9. **Resolve the roll.** Count your **edges**: a result of 6+ gives 1 edge, while a 10+ gives 2 edges.
 
 The number of edges you roll determines the outcome:
 
@@ -27,29 +29,15 @@ The number of edges you roll determines the outcome:
 
 ---
 
-## Position and Effect
+## Position
 
-Every action roll is framed by **position** (how dangerous the attempt is) and **effect** (what the action can achieve). These concepts communicate to the players what is at stake before the dice are rolled.
-
-### Position
-
-Position describes the risk involved in attempting the action. It communicates what kind of consequences are likely if you fail or partially succeed.
+Every action roll is framed by **position** (how dangerous the attempt is). These concepts communicate to the players what is at stake before the dice are rolled.
 
 1. **Safe:** There are no real consequences, even on failure. You only roll in a safe position to determine the *degree* of success. Standard effect is the baseline.
 2. **Controlled:** Low risk. Consequences are usually light, often resulting in minor complications or Level 1 harm.
-3. **Risky:** The most common position. Consequences may include Level 1 or 2 harm, setbacks, or other complications.
-4. **Desperate:** High risk. Severe consequences are possible, including Level 2 or 3 harm.
-5. **Dire:** Extreme risk. Death or equally dire consequences are on the table. This position should be rare, reserved for pivotal story moments.
-
-### Effect
-
-Effect describes how much your action can accomplish, assuming it succeeds.
-
-1. **None:** No effect is possible—if this is the case, you should not be rolling.
-2. **Less:** The effect is reduced compared to expectations.
-3. **Standard:** The expected or typical outcome.
-4. **Great:** The outcome exceeds expectations and achieves more than is normally possible.
-5. **Fantastic:** An extraordinary outcome beyond belief. Like Dire position, this should be reserved for pivotal story moments.
+3. **Risky:** The most common position. Consequences may include Level 1 or 2 harm, setbacks, or other complications. **Spend 1 WP to add stress dice.**
+4. **Desperate:** High risk. Severe consequences are possible, including Level 2 or 3 harm. **Always add stress dice.**
+5. **Dire:** Extreme risk. Death or equally dire consequences are on the table. This position should be rare, reserved for pivotal story moments. **Always add stress dice.**
 
 ---
 
@@ -58,44 +46,44 @@ Effect describes how much your action can accomplish, assuming it succeeds.
 Failure does not mean the story stops. Instead, the GM should apply **benefits and consequences** to keep the action moving forward. Sometimes a success comes with a cost, or a failure reveals a new opportunity.
 
 ### Benefits
-- Increased effect (e.g., Standard becomes Great).
 - Improved position for your next action or an ally’s action.
 - Clear 1 stress.
 - Gain 1 willpower.
 - A new opportunity is revealed.
+- The action was more effective than expected.
 
 ### Consequences
-- Reduced effect (e.g., Standard becomes Limited).
 - Worse position for your next action or an ally’s action.
 - A new complication, threat, or obstacle arises.
 - The opportunity is lost—you must try another approach.
 - You take stress.
 - You take harm.
+- The action was less effective than expected.
 
 ---
 
-## Advantage and Disadvantage
+## Bonuses and Penalties
 
-Sometimes circumstances give you an edge or put you at a disadvantage.
+Bonuses and penalties modify your **base dice** (attribute + skill) before you roll by **stepping** die sizes up or down along the ladder **d4 → d6 → d8 → d10 → d12**.
 
-- When you have **advantage**, add one **D8 advantage die** to your roll. Any edges from this die add to your total.
-- When you have **disadvantage**, add one **D8 disadvantage die**. Any edges from this die subtract from your total.
-- Advantage and disadvantage do not stack—you will never roll more than one advantage or disadvantage die. If both apply, they cancel out.
+- **Step order:** Apply **bonuses** first to the **lower** of your two base dice; apply **penalties** first to the **higher** die.
+- **Bounds:** No die can be increased above **d12** or reduced below **d4**.
+- **Stacking & cancellation:** Add all modifiers together (Bonuses **+1/+2/+3**, Penalties **-1/-2/-3**). A +2 and a -1 results in a net **+1**. Apply the net result using the step order above.
+- **Common sources:**  
+  - *Bonuses:* traits, fine/specialized gear, help from allies, clever prep or positioning.  
+  - *Penalties:* relevant harm, high stress/distraction, poor tools or conditions, strong opposition.
+
+### Examples (starting from d8 + d4):
+- Net **+1** → **d8 + d6**  
+- Net **+2** → **d8 + d8**  
+- Net **-1** → **d6 + d4**  
+- Net **-2** → **d4 + d4**
 
 ---
 
 ## Helping
 
-When another PC or NPC helps you, they give you advantage on your roll. Instead of a standard D8 advantage die, the helper provides a die equal to their relevant skill rating. If multiple characters help, take the highest die available among them.
-
----
-
-## Gear Bonuses
-
-Weapons, tools, and other equipment can provide extra dice.
-
-- Gear has a rating, usually from +1 to +3. This is the number of **D6s** you add to your roll when using that gear.
-- Gear can degrade over time. When its bonus reaches 0, it is broken and unusable.
+When another PC or NPC helps you, they give you **+1** to the roll. Each PC must justify how they are helping. Successful rolls may be required to provide help at the GM's discretion. Bonuses cannot go beyond **+3**.
 
 ---
 
@@ -103,12 +91,28 @@ Weapons, tools, and other equipment can provide extra dice.
 
 Pushing represents a character straining beyond their normal limits.
 
-If you fail or get fewer edges than you want, you may choose to push:
+**Banes:** Whenever you roll, any **1s** on **stress dice** (whether you pushed or not) are called **banes**.  
+Banes always have consequences and **must** be assigned after the roll.
 
-- Add **1 stress die** to your pool and reroll everything.
-- 1s rolled on stress dice have the same effect as normal stress rolls.
-- 1s rolled on attribute and skill dice cause Level 1 or 2 harm (depending on whether 1 or 2 dice come up as 1).
-- 1s rolled on gear dice degrade the gear.
+If you fail or want more edges, you may **push**:
+
+1. **Add 1 stress.**
+2. **Reroll** any dice you choose **except stress dice that landed on a 1**.
+   (You may reroll base dice, talent dice, and any stress dice that did **not** show 1.)
+3. **Also roll stress dice** equal to your current stress (D6s).
+   Note: pushing increases the number of stress dice, which increases the chance of banes, but also the chance of extra edges.
+4. Resolve the roll as normal, then assign any banes.
+
+### Assigning Banes
+After the roll, assign banes to one of the following, as fits the fiction (GM has final say):
+
+- **Gear (if used):** Each bane reduces the item’s reliability by 1.
+- **Harm – Body or Mind:** Convert banes assigned to a harm track into harm levels:
+  - **1 bane → Level 1 harm**
+  - **2 banes → Level 2 harm**
+  - **3+ banes → Level 3 harm**
+
+You may split banes among gear and harm (e.g., 1 bane to gear, 1 to Body).
 
 ---
 
