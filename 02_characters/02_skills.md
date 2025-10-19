@@ -20,37 +20,37 @@ Each skill is based on one attribute. Whenever you take an action, you will roll
 
 ## Strength
 
-### Heft
-Sustaining and moving heavy loads—lifting, carrying, dragging, and wearing weight without faltering.
+### Melee
+Close combat with weapons—from swords to axes to blunt instruments.
 
 Examples:
-- Hoisting a fallen beam to free a trapped worker.
-- Dragging an unconscious ally across rubble.
-- Marching long distances in plate without slowing.
+- Crossing blades with a skilled duelist.
+- Swinging an axe to break a shield wall.
+- Fending off a beast with a spear.
 
-### Burst
-Explosive, short-burst force—hits, kicks, rams, and heaves that break stalemates or obstacles.
-
-Examples:
-- Kicking a barred door off its hinges.
-- Driving a foe backward with a shield bash.
-- Heaving a heavy grappling hook up to a parapet.
-
-### Anchor
-Grip dominance and full-body bracing—pinning, holding, and resisting displacement.
+### Force
+Applying raw strength to overcome resistance—lifting, breaking, striking, or moving heavy things.
 
 Examples:
-- Holding a doorway against a rush of bodies.
-- Pinning a bandit until they drop their knife.
-- Keeping your weapon in a tug-of-war.
+- Smashing through a barred door with a battering ram.
+- Hoisting a fallen beam to free a trapped ally.
+- Driving a foe backward with a powerful shield bash.
+
+### Endurance
+Sustaining effort under strain—carrying weight, absorbing blows, and pushing through fatigue.
+
+Examples:
+- Marching for hours in heavy armor without slowing.
+- Holding a gate shut against a press of bodies.
+- Carrying two wounded allies to safety before collapsing.
 
 ### Menace
-Commanding compliance through imposing presence and obvious power.
+Using presence and physicality to intimidate, dominate, or cow others, sometimes without even saying a word.
 
 Examples:
-- Silencing a rowdy crowd by stepping forward and crowding the space.
-- Staring down a bouncer to make them think twice.
-- Backing thugs off an ally without throwing a punch.
+- Forcing a captive to reveal information.
+- Silencing a room with an imposing glare.
+- Looming over someone to make them back down.
 
 ---
 
