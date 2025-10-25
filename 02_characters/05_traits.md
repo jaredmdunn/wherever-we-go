@@ -2,7 +2,7 @@
 title: Traits
 layout: default
 parent: Characters
-nav_order: 3
+nav_order: 5
 ---
 
 # Traits
@@ -29,11 +29,11 @@ Traits fall into several broad categories. Each is described below, with sample 
 ### Aptitudes
 
 #### Natural (*Attribute*)
-Skills within the specified attribute come more easily to you.  
+Skills within the specified attribute come more easily to you.
 - Gain a **+1 bonus** on rolls using that attribute.
 
 #### Unnatural (*Attribute*)
-Skills within the specified attribute come less naturally.  
+Skills within the specified attribute come less naturally.
 - Suffer a **–1 penalty** on rolls using that attribute.
 
 ---

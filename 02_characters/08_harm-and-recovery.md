@@ -1,9 +1,10 @@
 ---
-title: Harm and Recovery
+title: Harm
 layout: default
 parent: Characters
-nav_order: 6
+nav_order: 8
 ---
+
 # Harm and Recovery
 
 Danger, risk, and the chance of getting hurt are a natural part of adventure. *Wherever We Go* uses **harm** to represent the lasting consequences of those risks—whether wounds, fear, exhaustion, or emotional strain—and **recovery** to represent the time and effort it takes to get back on your feet. Harm raises the stakes of the story, while recovery creates space for quieter moments of reflection, growth, and care.
@@ -213,3 +214,59 @@ Whenever you suffer new harm, erase any progress on your healing clock. Recovery
 ### Recovery in the Fiction  
 
 Recovery isn’t just mechanical. Use these scenes to show what your character does to heal—quiet nights with a healer, whispered prayers, moments of bonding, or solitary reflection. These moments can reveal character growth, deepen relationships, or introduce new story hooks.
+
+---
+
+Physique / Strength
+Precision / Agility
+Intuition
+Wits
+
+D6
+D8
+D10
+D12
+
+Penalties: -1, -2, -3 --> can match to levels of harm
+
+Resistance: 24, 22, 20, 18, 16, 14, 12
+/ 2: 12, 11, 10, 9, 8, 7, 6
+/ 3:  7,  7,  6, 6, 5, 5, 4
+/ 4:  6,  5,  5, 4, 4, 3, 3
+/ 5:  4,  4,  4, 3, 3, 2, 2
+/ 6:  4,  3,  3, 3, 2, 2, 2
+
+I want every time someone takes damage for it to matter:
+
+| Level | # of injuries | effect | skill / attribute |
+| --- | --- | --- | --- |
+| 1 | 3 | -1 | - |
+| 2 | 2 | -2 | - |
+| 3 | 1 | -3 | - |
+| 4 | 1 | broken | - |
+
+IDEA: 3 level 1 injuries: -1 on 3 different skills, 2 level 2 injuries: -2 on 2 different skills, 1 level 3 injury: -3 on an attribute --> worst penalty applies (only the worst injury penalty applies)
+
+IDEA: level 3 injuries are potentially lethal
+
+IDEA: Potential injury table:
+
+| Level | Effect | Injury |
+| --- | --- | --- |
+| 1 | -1 to Skill | - |
+| 1 | -1 to Skill | - |
+| 1 | -1 to Skill | - |
+| 2 | -2 to Skill | - |
+| 2 | -2 to Skill | - |
+| 3 | -3 to Attribute | - |
+| 4 | Broken | - |
+
+IDEA: arrange as pyramid or reverse pyramid?
+
+[1] [1] [1]
+  [2] [2]
+    [3]
+    [4]
+
+IDEA: Thresholds stay the same
+

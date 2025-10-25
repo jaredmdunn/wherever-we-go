@@ -1,11 +1,13 @@
 ---
-title: Stress
+title: Stress and Willpower
 layout: default
 parent: Characters
-nav_order: 7
+nav_order: 4
 ---
 
-# Stress
+# Stress and Willpower
+
+## Stress
 
 Stress represents your character’s adrenaline, nerves, and mental strain in high-stakes situations. It builds as you push yourself beyond your limits, face fear or magical effects, or otherwise endure intense pressure.
 
@@ -13,7 +15,7 @@ Stress is temporary. It comes and goes within a session and gives you a way to m
 
 ---
 
-## Gaining Stress
+### Gaining Stress
 
 You gain **1 stress** when you:
 
@@ -25,7 +27,7 @@ You must add stress dice to an action roll if it is Desperate or Dire or any tim
 
 ---
 
-## Clearing Stress
+### Clearing Stress
 
 Stress doesn’t stick around forever. You can clear it by taking time to rest, focus, or connect with others.
 
@@ -38,6 +40,31 @@ Even when you are not resting or in a montage sequence, 1 stress can be cleared 
 
 ---
 
-## Stress in Play
+### Stress in Play
 
 Stress is meant to build tension, not punish players. It makes rolls more dramatic, raises the stakes of action, and creates space for rich roleplay when panic sets in.
+
+---
+
+## Willpower
+
+Willpower (WP) is the currency you spend for your character’s biggest, most meaningful moments. It powers Talents, fuels your Drives, and lets you go further when the stakes are high.
+
+You can have a maximum of **6 WP** at a time. Tracking WP matters—when you spend it, it should feel like your character is digging deep.
+
+### Gaining Willpower  
+
+Willpower is earned through play:
+
+- **As a Roll Benefit:** The GM may grant 1 WP as a benefit of an action roll’s outcome (often on a great success or as a silver lining to failure).
+- **From Passive Abilities:** Some Talents grant WP under certain conditions (e.g., when you win a duel, when you successfully heal another character, when you face danger head-on).
+
+There is no automatic refresh between sessions or scenes. If you want more WP, you must earn it through play or triggers.
+
+### Spending Willpower
+
+You spend WP when you want to make your most dramatic choices matter:
+
+- **Activating Talents:** Most **Active Abilities** cost 1–3 WP to use (see below).
+- **Supercharging a Roll:** Spend 2 WP to add bonus dice equal to the intensity of a relevant Drive (see below).
+- **Defying a Drive:** If you fail a Mind resistance roll against a Drive but still want to act against it, spend 1 WP to do so.

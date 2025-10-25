@@ -31,15 +31,15 @@ When initiative shifts, the other side takes over until control shifts again. Wi
 > 
 > This system emphasizes momentum and consequence. Initiative flows back and forth based on success and failure, keeping everyone engaged.
 
-### Surprise  
+### Surprise
 
 If the PCs catch the opposition completely off-guard, they may get a **Surprise Round** before initiative is rolled.  
 
-- Each PC participating in the ambush gets to take **one major or minor action**.  
-- The opposition cannot react during the Surprise Round.  
-- After the actions are resolved, roll for initiative as normal.  
+- Each PC participating in the ambush gets to take **one major or minor action**.
+- The opposition cannot react during the Surprise Round.
+- After the actions are resolved, roll for initiative as normal.
 
-If any PC fails during the surprise actions, the enemies are alerted and can react immediately, canceling the remaining surprise actions.  
+If any PC fails during the surprise actions, the enemies are alerted and can react immediately, canceling the remaining surprise actions.
 
 **Determining Surprise:**  
 - For ambushes, make an opposed **Stealth vs. Observation** roll.  
@@ -78,7 +78,9 @@ The GM can adjust the number and size of zones to match the fiction. A close-qua
 
 ---
 
-## Combat Actions  
+## Combat Actions
+
+IDEA: Major and Minor actions are not specified explicitly. They are instead open to the GM's discretion with just a few examples.
 
 Combat is a conversation, just like free play and missions — but timing and action economy matter more here. Because every second counts, actions are broken into **major** and **minor** actions to help balance pacing and spotlight.
 
@@ -86,16 +88,16 @@ Each participant can take **one major action and one minor action**, or **two mi
 
 > **Attacking, Defending, and Opposed Rolls**
 > 
-> - **Attacking Actions:** Any action that directly targets another creature — striking them, grappling them, persuading them, taunting them, etc.  
+> - **Attacking Actions:** Any action that directly targets another creature — striking them, grappling them, persuading them, taunting them, etc.
 > - **Defending Reactions:** When an attacking action targets you, you may defend if you still have an action left. Most defensive reactions (like dodge or block) are minor actions.
 > - **Opposed Rolls:** When an action calls for an opposed roll, it only counts as an action for the **acting creature** (the one initiating the roll). This is different from defending reactions, which do cost the defender one of their available actions.
 > - **Attack Rolls & Edges:** In combat, a successful attack requires rolling at least **one more edge** than the defender. Unlike other rolls, a single edge margin counts as a full success. If the defender cannot or chooses not to defend, only one edge is needed to succeed.
 
 ### Major Actions
 
-Major actions are the centerpiece of your turn — bold, decisive moves that change the state of the fight: attacking, grappling, sprinting, or performing high-impact tasks.  
+Major actions are the centerpiece of your turn — bold, decisive moves that change the state of the fight: attacking, grappling, sprinting, or performing high-impact tasks.
 
-| Action          | Roll           | Quick Description |
+| Action          | Roll          | Quick Description |
 |-----------------|---------------|------------------|
 | **Melee Attack** | Melee | Strike with a melee weapon. |
 | **Unarmed Attack** | Might | Punch, kick, or bite. |

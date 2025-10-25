@@ -2,8 +2,9 @@
 title: Money
 layout: default
 parent: Characters
-nav_order: 8
+nav_order: 9
 ---
+
 # Money
 In *Wherever We Go*, money isn’t tracked with exact coins and ledgers. Instead, it is abstracted into two parts: **coin** (ready cash on hand) and **wealth** (long-term savings and assets). This keeps money simple but still meaningful to play.
 
