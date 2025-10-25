@@ -11,9 +11,6 @@ Attributes define the basic physical and mental capabilities of the characters. 
 ## Skills
 Skills represent the knowledge, training, and experience your character has gained over time. While attributes reflect your natural potential, skills reflect what you've learned to do with that potential. Together, skills and attributes determine how effective your character is when taking actions in the world.
 
-## Resistances
-Resistances measure how well a character weathers consequences in the moment—physically and mentally. In *Wherever We Go*, there are two resistances: **Body** and **Mind**. They’re used when a **resistance roll** is called for and to determine how much physical and mental **harm** a character can withstand before suffering lasting effects.
-
 ## Stress and Willpower
 Stress helps you succeed but too much stress can make you crumble.
 
