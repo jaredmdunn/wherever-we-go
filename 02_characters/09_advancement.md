@@ -2,8 +2,9 @@
 title: Advancement
 layout: default
 parent: Characters
-nav_order: 10
+nav_order: 9
 ---
+
 # Advancement
 
 ## Advancing Skills
