@@ -4,6 +4,7 @@ layout: default
 parent: Characters
 nav_order: 2
 ---
+
 # Skills
 Skills represent the knowledge, training, and experience your character has gained over time. While attributes reflect your natural potential, skills reflect what you've learned to do with that potential. Together, skills and attributes determine how effective your character is when taking actions in the world.
 
@@ -20,14 +21,6 @@ Each skill is based on one attribute. Whenever you take an action, you will roll
 
 ## Strength
 
-### Melee
-Close combat with weapons—from swords to axes to blunt instruments.
-
-Examples:
-- Crossing blades with a skilled duelist.
-- Swinging an axe to break a shield wall.
-- Fending off a beast with a spear.
-
 ### Force
 Applying raw strength to overcome resistance—lifting, breaking, striking, or moving heavy things.
 
@@ -40,9 +33,17 @@ Examples:
 Sustaining effort under strain—carrying weight, absorbing blows, and pushing through fatigue.
 
 Examples:
-- Marching for hours in heavy armor without slowing.
+- Holding your breath under water.
 - Holding a gate shut against a press of bodies.
 - Carrying two wounded allies to safety before collapsing.
+
+### Melee
+Close combat with weapons—from swords to axes to blunt instruments.
+
+Examples:
+- Crossing blades with a skilled duelist.
+- Swinging an axe to break a shield wall.
+- Fending off a beast with a spear.
 
 ### Menace
 Using presence and physicality to intimidate, dominate, or cow others, sometimes without even saying a word.
@@ -56,14 +57,6 @@ Examples:
 
 ## Dexterity
 
-### Precision
-Fine handwork and practical craftsmanship—steady fingers for delicate tasks and the know-how to build, repair, or modify gear.
-
-Examples:
-- Picking a noble’s pocket unnoticed.
-- Rigging a makeshift trap.
-- Repairing a broken crossbow.
-
 ### Marksmanship
 Accuracy with ranged weapons—from thrown objects to bows to firearms.
 
@@ -72,14 +65,6 @@ Examples:
 - Throwing a dagger into a fleeing foe.
 - Taking down a guard with a musket shot.
 
-### Stealth
-The ability to move quietly, avoid detection, and conceal yourself from sight or sound.
-
-Examples:
-- Sneaking past a sleeping guard.
-- Disappearing into the shadows of an alley.
-- Stalking prey through underbrush.
-
 ### Mobility
 Speed, balance, and ability to maneuver with precision—running, jumping, tumbling, climbing, etc.
 
@@ -87,6 +72,22 @@ Examples:
 - Sprinting across a collapsing bridge.
 - Scaling a high wall without gear.
 - Dodging through a crowded marketplace.
+
+### Precision
+Skilled, controlled handwork—precise motion, focus, and technique applied to tools, devices, or delicate materials.
+
+Examples:
+- Picking a noble’s pocket unnoticed.
+- Lockpicking or trap disarming.
+- Performing surgery or fine mechanical work.
+
+### Stealth
+The ability to move quietly, avoid detection, and conceal yourself from sight or sound.
+
+Examples:
+- Sneaking past a sleeping guard.
+- Disappearing into the shadows of an alley.
+- Stalking prey through underbrush.
 
 ---
 
@@ -128,6 +129,14 @@ Examples:
 
 ## Wits
 
+### Craft
+Creating, repairing, or modifying objects through practical knowledge and resourceful problem-solving.
+
+Examples:
+- Forging or repairing weapons and armor.
+- Constructing a gadget or simple machine.
+- Reprogramming a drone or hacking a terminal.
+
 ### Learning
 Knowing things—history, culture, religion, politics, and other academic topics—and the ability to study and learn.
 
@@ -151,11 +160,3 @@ Examples:
 - Spotting a hidden blade under a cloak.
 - Noticing an ambush before it’s sprung.
 - Catching a whispered exchange in the crowd.
-
-### Survival
-The ability to endure and navigate harsh environments, find food and water, track creatures, and withstand natural dangers.
-
-Examples:
-- Starting a fire in a rainstorm.
-- Following animal tracks through the woods.
-- Navigating by the stars across open desert.
