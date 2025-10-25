@@ -4,6 +4,7 @@ layout: default
 parent: Introduction
 nav_order: 1
 ---
+
 # Who's Who
 
 This game is a collaborative story you build together, and everyone at the table has a distinct role to play. Understanding who does what helps keep the conversation flowing smoothly and ensures that every player has a chance to shape the narrative. The roles below define how each person contributes to the shared world, from the heroes driving the story to the GM who brings the world to life.
