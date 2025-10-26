@@ -34,10 +34,10 @@ The number of edges you roll determines the outcome:
 Every action roll is framed by **position** (how dangerous the attempt is). These concepts communicate to the players what is at stake before the dice are rolled.
 
 1. **Safe:** There are no real consequences, even on failure. You only roll in a safe position to determine the *degree* of success. Standard effect is the baseline.
-2. **Controlled:** Low risk. Consequences are usually light, often resulting in minor complications or Level 1 harm.
-3. **Risky:** The most common position. Consequences may include Level 1 or 2 harm, setbacks, or other complications. **Spend 1 WP to add stress dice.**
-4. **Desperate:** High risk. Severe consequences are possible, including Level 2 or 3 harm. **Always add stress dice.**
-5. **Dire:** Extreme risk. Death or equally dire consequences are on the table. This position should be rare, reserved for pivotal story moments. **Always add stress dice.**
+2. **Controlled:** Low risk. Consequences are usually light, often resulting in minor complications or minor harm at the most.
+3. **Risky:** The most common position. Consequences may include minor or major harm, setbacks, or other complications. **Spend 1 WP to add stress dice.**
+4. **Desperate:** High risk. Severe consequences are possible, including major and severe harm. **Always add stress dice.**
+5. **Dire:** Extreme risk. Severe harm, death, equally dire consequences are on the table. This position should be rare, reserved for pivotal story moments. **Always add stress dice.**
 
 ---
 
@@ -108,9 +108,9 @@ After the roll, assign banes to one of the following, as fits the fiction (GM ha
 
 - **Gear (if used):** Each bane reduces the item’s reliability by 1.
 - **Harm – Body or Mind:** Convert banes assigned to a harm track into harm levels:
-  - **1 bane → Level 1 harm**
-  - **2 banes → Level 2 harm**
-  - **3+ banes → Level 3 harm**
+  - **1 bane → minor harm**
+  - **2 banes → major harm**
+  - **3+ banes → severe harm**
 
 You may split banes among gear and harm (e.g., 1 bane to gear, 1 to Body).
 
