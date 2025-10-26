@@ -73,11 +73,11 @@ Bonuses and penalties modify your **base dice** (attribute + skill) before you r
   - *Bonuses:* traits, fine/specialized gear, help from allies, clever prep or positioning.  
   - *Penalties:* relevant harm, high stress/distraction, poor tools or conditions, strong opposition.
 
-### Examples (starting from d8 + d4):
+### Examples (starting from d8 + 0):
 - Net **+1** → **d8 + d6**  
 - Net **+2** → **d8 + d8**  
-- Net **-1** → **d6 + d4**  
-- Net **-2** → **d4 + d4**
+- Net **-1** → **d6 + 0**  
+- Net **-2** → **0 + 0**
 
 ---
 

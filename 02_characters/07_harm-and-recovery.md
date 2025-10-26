@@ -15,39 +15,42 @@ Harm is how the game tracks lasting consequences from danger. It is not meant to
 
 ### Levels of Harm
 
-Harm is tracked on a single harm track. Each level has two boxes, except Level 3, which has only one.
+Harm is tracked on a single harm track. There are three level 1 rows, two level 2 row, and one level 1 row. 
 
-- **Level 1 - Reduced Effect:** Minor harm that makes actions harder or slower. Examples: *Bruised, Distracted, Winded, Shaken*.
-- **Level 2 - Disadvantage:** Serious harm that imposes a direct penalty to rolls. Examples: *Deep Cut, Concussed, Panicked, Enraged*.
-- **Level 3 - Broken:** Severe harm that leaves you unable to act until it’s addressed. Examples: *Broken Arm, Impaled, Terrified, Dissociating*.
+- **Level 1:** Minor harm that makes actions harder or slower. Examples: *Bruised, Distracted, Winded, Shaken*.
+  - For each level 1 injury, a different skill gets a -1 penalty.
+- **Level 2 - Disadvantage:** Serious harm that imposes a direct penalty to rolls. Examples: *Deep Cut, Concussed, Panicked, Enraged, Terrified*.
+  - For each level 2 injury, a different skill gets a -2 penalty.
+- **Level 3 - Broken:** Severe harm that leaves you unable to act until it’s addressed. Examples: *Broken Arm, Impaled, Dissociating*.
+  - For a level 3 injury, an attribute (so all of its skills) gets a -3 penalty.
 
-If you must take harm and there’s no space at the appropriate level, the harm escalates to the next level. If all boxes are full, the harm is even worse-potentially permanent injury, complete mental collapse, or death.  
+If you must take harm and there’s no space at the appropriate level, the harm escalates to the next level. If all rows are full, the harm is even worse-potentially permanent injury, complete mental collapse, or death.
 
 ### Thresholds
 
-When harm is inflicted, compare the incoming damage to the appropriate **resistance threshold** to see what level of harm you suffer.  
+When harm is inflicted, compare the incoming damage to the appropriate **threshold** to see what level of harm you suffer.
 
-- **Physical harm** uses your **Body** thresholds which are calculated from your Strength + Agility. 
-- **Mental harm** uses your **Mind** thresholds which from your Intuition + Wits. 
+Each threshold is a target number based on either **Body** (Strength + Dexterity) or **Mind** (Intuition + Wits).
 
-Each threshold is a target number based on your resistance. If the incoming damage is **greater than or equal to** a threshold, you take harm of that level (unless it meets or exceeds a higher threshold, in which case you take the higher level of harm).
+If the incoming damage is **greater than or equal to** a threshold, you take harm of that level (unless it meets or exceeds a higher threshold, in which case you take the higher level of harm).
 
 Your thresholds are calculated as:
 
-- **Level 1 Harm:** Resistance ÷ 10
-- **Level 2 Harm:** Resistance ÷ 6
-- **Level 3 Harm:** Resistance ÷ 2
+- **Level 1 Harm**: 1
+- **Level 2 Harm**: Body or Mind ÷ 10, rounded down
+- **Level 3 Harm**: Body or Mind ÷ 6, rounded down
+- **Level 4 Harm**: Body or Mind ÷ 2, rounded down
 
-#### Example 1: Physical Harm (Body = 18, D10 + D8)
+#### Example 1: Physical Harm (Strength = D10 and Dexterity = D8; Body = 18)
 - Threshold 1: 18 ÷ 10 = **1**
 - Threshold 2: 18 ÷ 6 = **3**
 - Threshold 3: 18 ÷ 2 = **9**
 
 - If you take **1 or 2 points** of physical damage, you suffer **Level 1 harm** (*Bruised*).
 - If you take **3–8 points** of physical damage, you suffer **Level 2 harm** (*Concussed*).
-- If you take **9+ points** of physical damage, you suffer **Level 3 harm** (*Broken Arm*).
+- If you take **9+ points** of physical damage, you suffer **Level 3 harm** (*Shattered Arm*).
 
-#### Example 2: Mental Harm (Mind = 14, D8 + D6)
+#### Example 2: Mental Harm (Intuition = D8 and Wits = D6; Mind = 14)
 - Threshold 1: 14 ÷ 10 = **1**
 - Threshold 2: 14 ÷ 6 = **2**
 - Threshold 3: 14 ÷ 2 = **7**
@@ -66,79 +69,54 @@ These thresholds make different characters feel distinct. A tough fighter with a
 
 Use the harm table to record lasting injuries, conditions, or emotional states. You don’t need to track which threshold was used-only the fictional result (for example, *Bruised*, *Distracted*, *Concussed*).
 
-#### Blank Harm Table  
+#### Blank Harm Table
 
 <table>
   <thead>
     <tr>
-      <th>Level</th>
+      <th>Harm</th>
       <th>Effect</th>
-      <th>Thresholds</th>
-      <th colspan="2">Harm</th>
     </tr>
   </thead>
   <tbody>
+    <th colspan="2" style="text-align: center">Level 1 (Thresholds: <em>Body ÷ 10, Mind ÷ 10</em>)</th>
     <tr>
-      <td>1</td>
-      <td>Reduced Effect</td>
-      <td><em>Body ÷ 10 / Mind ÷ 10</em></td>
-      <td></td>
-      <td></td>
+      <td><em>Harm description</em></td>
+      <td><em>-1 to Skill</em></td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>Disadvantage</td>
-      <td><em>Body ÷ 6 / Mind ÷ 6</em></td>
-      <td></td>
-      <td></td>
+      <td><em>Harm description</em></td>
+      <td><em>-1 to Skill</em></td>
     </tr>
     <tr>
-      <td>3</td>
+      <td><em>Harm description</em></td>
+      <td><em>-1 to Skill</em></td>
+    </tr>
+    <th colspan="2" style="text-align: center">Level 2 (Thresholds: <em>Body ÷ 6, Mind ÷ 6</em>)</th>
+    <tr>
+      <td><em>Harm description</em></td>
+      <td><em>-2 to Skill</em></td>
+    </tr>
+    <tr>
+      <td><em>Harm description</em></td>
+      <td><em>-2 to Skill</em></td>
+    </tr>
+    <th colspan="2" style="text-align: center">Level 3 (Thresholds: <em>Body ÷ 4, Mind ÷ 4</em>)</th>
+    <tr>
+      <td><em>Harm description</em></td>
+      <td><em>-3 to Attribute</em></td>
+    </tr>
+    <th colspan="2" style="text-align: center">Level 4 (Thresholds: <em>Body ÷ 2, Mind ÷ 2</em>)</th>
+    <tr>
+      <td><em>Harm description</em></td>
       <td>Broken</td>
-      <td><em>Body ÷ 2 / Mind ÷ 2</em></td>
-      <td colspan="2"></td>
-    </tr>
-  </tbody>
-</table>
-
-#### Example Harm Table (Body = 18, Mind = 14)
-
-<table>
-  <thead>
-    <tr>
-      <th>Level</th>
-      <th>Effect</th>
-      <th>Thresholds</th>
-      <th colspan="2">Harm</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Reduced Effect</td>
-      <td>Body: 1 / Mind: 1</td>
-      <td>Battered</td>
-      <td>Distracted</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Disadvantage</td>
-      <td>Body: 3 / Mind: 2</td>
-      <td>Concussed</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Broken</td>
-      <td>Body: 9 / Mind: 7</td>
-      <td colspan="2"></td>
     </tr>
   </tbody>
 </table>
 
 ### Becoming Broken  
 
-When you suffer Level 3 harm, you become **Broken**. This is the most dangerous state your character can be in-when harm is severe enough to leave you unconscious, incapacitated, or otherwise unable to act.
+When you suffer Level 4 harm, you become **Broken**. This is the most dangerous state your character can be in-when harm is severe enough to leave you unconscious, incapacitated, or otherwise unable to act.
 
 - **Incapacitated:** While Broken, you are unconscious or otherwise unable to meaningfully act until stabilized.
 - **Death Save:** When you become Broken, immediately roll a **D20**.
@@ -157,7 +135,7 @@ A first aid attempt can be made to help a Broken character (usually using **Medi
 
 #### Permanent Injury
 
-A **permanent injury** represents lasting damage-physical or mental-that will never fully heal. Mechanically, a permanent injury means you **step down one of your attribute dice** (Physique, Precision, Intuition, or Wits-whichever makes sense in the fiction). This will also change your resistance thresholds.
+A **permanent injury** represents lasting damage-physical or mental-that will never fully heal. Mechanically, a permanent injury means you **step down one of your attribute dice** (Strength, Dexterity, Intuition, or Wits-whichever makes sense in the fiction). This will also change your resistance thresholds.
 
 Permanent injuries should also have narrative consequences. Examples:  
 - **Physical:** A limp, a missing finger, an old wound that never quite healed.
@@ -215,59 +193,4 @@ Whenever you suffer new harm, erase any progress on your healing clock. Recovery
 ### Recovery in the Fiction
 
 Recovery isn’t just mechanical. Use these scenes to show what your character does to heal-quiet nights with a healer, whispered prayers, moments of bonding, or solitary reflection. These moments can reveal character growth, deepen relationships, or introduce new story hooks.
-
----
-
-Physique / Strength
-Precision / Agility
-Intuition
-Wits
-
-D6
-D8
-D10
-D12
-
-Penalties: -1, -2, -3 --> can match to levels of harm
-
-Resistance: 24, 22, 20, 18, 16, 14, 12
-/ 2: 12, 11, 10, 9, 8, 7, 6
-/ 3:  7,  7,  6, 6, 5, 5, 4
-/ 4:  6,  5,  5, 4, 4, 3, 3
-/ 5:  4,  4,  4, 3, 3, 2, 2
-/ 6:  4,  3,  3, 3, 2, 2, 2
-
-I want every time someone takes damage for it to matter:
-
-| Level | # of injuries | effect | skill / attribute |
-| --- | --- | --- | --- |
-| 1 | 3 | -1 | - |
-| 2 | 2 | -2 | - |
-| 3 | 1 | -3 | - |
-| 4 | 1 | broken | - |
-
-IDEA: 3 level 1 injuries: -1 on 3 different skills, 2 level 2 injuries: -2 on 2 different skills, 1 level 3 injury: -3 on an attribute --> worst penalty applies (only the worst injury penalty applies)
-
-IDEA: level 3 injuries are potentially lethal
-
-IDEA: Potential injury table:
-
-| Level | Effect | Injury |
-| --- | --- | --- |
-| 1 | -1 to Skill | - |
-| 1 | -1 to Skill | - |
-| 1 | -1 to Skill | - |
-| 2 | -2 to Skill | - |
-| 2 | -2 to Skill | - |
-| 3 | -3 to Attribute | - |
-| 4 | Broken | - |
-
-IDEA: arrange as pyramid or reverse pyramid?
-
-[1] [1] [1]
-  [2] [2]
-    [3]
-    [4]
-
-IDEA: Thresholds stay the same
 
