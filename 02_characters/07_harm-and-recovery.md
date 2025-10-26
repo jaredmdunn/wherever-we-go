@@ -9,65 +9,73 @@ nav_order: 7
 
 Danger, risk, and the chance of getting hurt are a natural part of adventure. *Wherever We Go* uses **harm** to represent the lasting consequences of those risks-whether wounds, fear, exhaustion, or emotional strain-and **recovery** to represent the time and effort it takes to get back on your feet. Harm raises the stakes of the story, while recovery creates space for quieter moments of reflection, growth, and care.
 
+---
+
 ## Harm
 
-Harm is how the game tracks lasting consequences from danger. It is not meant to punish characters but to make risks meaningful and to create opportunities for drama and tension. Harm affects what your character can do until it’s treated, but it also tells the story of the hardships they have endured.
+Harm tracks the lasting consequences of danger. It isn’t meant to punish you, but to make risks meaningful and create opportunities for drama and tension. Harm affects what you can do until it’s treated, but it also tells the story of the hardships you’ve endured.
 
-### Levels of Harm
+### Categories of Harm
 
-Harm is tracked on a single harm track. There are three level 1 rows, two level 2 row, and one level 1 row. 
+Harm of all types is tracked on a single harm track with the following rows:
 
-- **Level 1:** Minor harm that makes actions harder or slower. Examples: *Bruised, Distracted, Winded, Shaken*.
-  - For each level 1 injury, a different skill gets a -1 penalty.
-- **Level 2 - Disadvantage:** Serious harm that imposes a direct penalty to rolls. Examples: *Deep Cut, Concussed, Panicked, Enraged, Terrified*.
-  - For each level 2 injury, a different skill gets a -2 penalty.
-- **Level 3 - Broken:** Severe harm that leaves you unable to act until it’s addressed. Examples: *Broken Arm, Impaled, Dissociating*.
-  - For a level 3 injury, an attribute (so all of its skills) gets a -3 penalty.
+- **Minor Harm (3 rows):** Small injuries that make actions harder or slower.  
+  Examples: *Bruised, Distracted, Winded, Shaken.*
+  - Each Minor harm gives a **–1 penalty** to a different skill.
 
-If you must take harm and there’s no space at the appropriate level, the harm escalates to the next level. If all rows are full, the harm is even worse-potentially permanent injury, complete mental collapse, or death.
+- **Major Harm (2 rows):** Significant injuries or trauma that meaningfully impair you.  
+  Examples: *Deep Cut, Concussed, Panicked, Enraged, Terrified.*  
+  - Each Major harm gives a **–2 penalty** to a different skill.
+
+- **Severe Harm (1 row):** Serious wounds or breakdowns that render you unable to act until treated.  
+  Examples: *Broken Arm, Impaled, Dissociating.*  
+  - A Severe harm imposes a **–3 penalty** to an entire attribute (and all skills linked to it).
+
+- **Critical Harm (1 row):** Catastrophic injury or trauma that leaves you **Broken**-unconscious, incapacitated, or on the brink of death.
+
+If you must take harm and there’s no space at the appropriate category, it escalates to the next one. If all rows are full, the harm becomes permanent injury, complete collapse, or death.
 
 ### Thresholds
 
-When harm is inflicted, compare the incoming damage to the appropriate **threshold** to see what level of harm you suffer.
+When harm is inflicted, compare the incoming damage to the appropriate **thresholds** to determine how severe it is. Each threshold marks the **boundary between two harm categories**. Crossing a threshold moves the harm to the next category.
 
-Each threshold is a target number based on either **Body** (Strength + Dexterity) or **Mind** (Intuition + Wits).
+Each threshold is based on either your **Body** (Strength + Dexterity) or **Mind** (Intuition + Wits).
 
-If the incoming damage is **greater than or equal to** a threshold, you take harm of that level (unless it meets or exceeds a higher threshold, in which case you take the higher level of harm).
+- **Minor/Major Threshold:** Body or Mind ÷ 6 (rounded down)  
+- **Major/Severe Threshold:** Body or Mind ÷ 4 (rounded down)  
+- **Severe/Critical Threshold:** Body or Mind ÷ 2 (rounded down)
 
-Your thresholds are calculated as:
+If the incoming damage meets or exceeds a threshold, your harm moves into that higher category.
 
-- **Level 1 Harm**: 1
-- **Level 2 Harm**: Body or Mind ÷ 10, rounded down
-- **Level 3 Harm**: Body or Mind ÷ 6, rounded down
-- **Level 4 Harm**: Body or Mind ÷ 2, rounded down
+#### Example 1: Physical Harm
+*(Strength = D10 and Dexterity = D8 → Body = 18)*
 
-#### Example 1: Physical Harm (Strength = D10 and Dexterity = D8; Body = 18)
-- Threshold 1: 18 ÷ 10 = **1**
-- Threshold 2: 18 ÷ 6 = **3**
-- Threshold 3: 18 ÷ 2 = **9**
+- **Minor/Major Threshold:** 18 ÷ 6 = **3**
+- **Major/Severe Threshold:** 18 ÷ 4 = **4**
+- **Severe/Critical Threshold:** 18 ÷ 2 = **9**
 
-- If you take **1 or 2 points** of physical damage, you suffer **Level 1 harm** (*Bruised*).
-- If you take **3–8 points** of physical damage, you suffer **Level 2 harm** (*Concussed*).
-- If you take **9+ points** of physical damage, you suffer **Level 3 harm** (*Shattered Arm*).
+| Damage | Harm Category | Harm Descriptor | Cause | Effect |
+|--- | --- | --- | --- |
+| 1–2 | **Minor** | *Bruised* | Bashed with a shield | -1 to Force |
+| 3–8 | **Major** | *Concussed* | Rifle butt to the head | -2 to Observation |
+| 9+ | **Severe** | *Shattered Arm* | Jumping out of a building | -3 to Strength |
 
-#### Example 2: Mental Harm (Intuition = D8 and Wits = D6; Mind = 14)
-- Threshold 1: 14 ÷ 10 = **1**
-- Threshold 2: 14 ÷ 6 = **2**
-- Threshold 3: 14 ÷ 2 = **7**
+#### Example 2: Mental Harm  
+*(Intuition = D8 and Wits = D6 → Mind = 14)*
 
-- If you take **1 point** of mental damage, you suffer **Level 1 harm** (*Distracted*).
-- If you take **2–6 points** of mental damage, you suffer **Level 2 harm** (*Panicked*).
-- If you take **7+ points** of mental damage, you suffer **Level 3 harm** (*Catatonic*).
+- **Minor/Major Threshold:** 14 ÷ 6 = **2**
+- **Major/Severe Threshold:** 14 ÷ 4 = **3**
+- **Severe/Critical Threshold:** 14 ÷ 2 = **7**
 
-These thresholds make different characters feel distinct. A tough fighter with a high Body score can shake off blows that would incapacitate a fragile scholar. A seasoned leader with a steady Mind might resist fear or manipulation longer than others but may still fall just as hard if they’re pushed past their breaking point.
-
-> **GM Tip:**
-> 
-> If the damage is **below the Level 1 threshold**, no mechanical harm is recorded. Describe the outcome in the fiction-scratches, close calls, frights-but let the character keep moving without penalty. Only the toughest or most iron-willed characters will have thresholds high enough to completely shrug off low-level damage like this, so when it happens, it should feel like a moment of competence or grit worth highlighting.
+| Damage | Harm Category | Harm Descriptor | Cause | Effect 
+|--- | --- | --- | --- |
+| 1 | **Minor** | *Distracted* | Inhaled an intoxicating perfume | -1 to Observation |
+| 2–6 | **Major** | *Panicked* | The bridge behind you collapsed, leaving no escape | -2 to Insight |
+| 7+ | **Severe** | *Dissociating* | Looked at the face of the God of Death | -3 to Intuition |
 
 ### Harm Table
 
-Use the harm table to record lasting injuries, conditions, or emotional states. You don’t need to track which threshold was used-only the fictional result (for example, *Bruised*, *Distracted*, *Concussed*).
+Use the harm table to record lasting injuries, conditions, or emotional states. You don’t need to track thresholds-just the fictional results (for example, *Bruised*, *Distracted*, *Concussed*).
 
 #### Blank Harm Table
 
@@ -79,71 +87,56 @@ Use the harm table to record lasting injuries, conditions, or emotional states. 
     </tr>
   </thead>
   <tbody>
-    <th colspan="2" style="text-align: center">Level 1 (Thresholds: <em>Body ÷ 10, Mind ÷ 10</em>)</th>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td><em>-1 to Skill</em></td>
-    </tr>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td><em>-1 to Skill</em></td>
-    </tr>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td><em>-1 to Skill</em></td>
-    </tr>
-    <th colspan="2" style="text-align: center">Level 2 (Thresholds: <em>Body ÷ 6, Mind ÷ 6</em>)</th>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td><em>-2 to Skill</em></td>
-    </tr>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td><em>-2 to Skill</em></td>
-    </tr>
-    <th colspan="2" style="text-align: center">Level 3 (Thresholds: <em>Body ÷ 4, Mind ÷ 4</em>)</th>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td><em>-3 to Attribute</em></td>
-    </tr>
-    <th colspan="2" style="text-align: center">Level 4 (Thresholds: <em>Body ÷ 2, Mind ÷ 2</em>)</th>
-    <tr>
-      <td><em>Harm description</em></td>
-      <td>Broken</td>
-    </tr>
+    <th colspan="2" style="text-align: center">Minor</th>
+    <tr><td><em>Harm description</em></td><td><em>-1 to Skill</em></td></tr>
+    <tr><td><em>Harm description</em></td><td><em>-1 to Skill</em></td></tr>
+    <tr><td><em>Harm description</em></td><td><em>-1 to Skill</em></td></tr>
+    <th colspan="2" style="text-align: center">Major</th>
+    <tr><td><em>Harm description</em></td><td><em>-2 to Skill</em></td></tr>
+    <tr><td><em>Harm description</em></td><td><em>-2 to Skill</em></td></tr>
+    <th colspan="2" style="text-align: center">Severe</th>
+    <tr><td><em>Harm description</em></td><td><em>-3 to Attribute</em></td></tr>
+    <th colspan="2" style="text-align: center">Critical</th>
+    <tr><td><em>Harm description</em></td><td>Broken</td></tr>
   </tbody>
+  <thead>
+    <tr><th>Healing clock:</th><td>&bigoplus;</td></tr>
+  </thead>
 </table>
 
-### Becoming Broken  
+## Becoming Broken
 
-When you suffer Level 4 harm, you become **Broken**. This is the most dangerous state your character can be in-when harm is severe enough to leave you unconscious, incapacitated, or otherwise unable to act.
+When you suffer **Critical harm**, you become **Broken**-unconscious, incapacitated, or otherwise unable to act.
 
-- **Incapacitated:** While Broken, you are unconscious or otherwise unable to meaningfully act until stabilized.
-- **Death Save:** When you become Broken, immediately roll a **D20**.
+- **Incapacitated:** While Broken, you are unconscious or unable to meaningfully act until stabilized.  
+- **Death Save:** When you become Broken, roll a **D20**.
   - On a **1**, you face death or an equally catastrophic fate (GM discretion).
-  - If you roll **less than or equal to the damage you just took**, you will suffer a **permanent injury**.
-  - If you roll **greater than the damage you just took**, you are still incapacitated but stable.
+  - If you roll **less than or equal to the damage you just took**, you suffer a **permanent injury**.
+  - If you roll **greater than the damage**, you’re incapacitated but stable.
 
-However, the consequences of a failed roll do not happen immediately. Instead, roll a **D6**. This sets up a clock of that size. Ticks in the clock are filled any time an action roll is made by anyone (character or NPC, ally or enemy). Once the clock fills up, the consequences of the Death Save become permanent. This gives allies a chance to intervene.
+If your Death Save triggers consequences (death or permanent injury), roll a **D6**-this creates a **countdown clock**. Every roll made by anyone (PC or NPC) fills a segment. When it fills, the consequences take effect. This gives allies a chance to intervene.
 
-#### Stabilizing the Broken
-A first aid attempt can be made to help a Broken character (usually using **Medicine** for physical harm or **Connection** for mental harm).
-- Only **one first aid attempt** may be made (though it can be rolled with help).
-- Add the number of **edges** rolled on this first aid check to the result of the Death Save.
-  - If the original roll was a **1**, any number of edges will save the character’s life.
+### Stabilizing the Broken
+
+A first aid attempt can be made to help a Broken character (usually **Medicine** for physical harm or **Connection** for mental harm).
+
+- Only **one first aid attempt** may be made (others can assist).
+- Add the number of **edges** rolled on this attempt to the result of the Death Save.
+  - If the original roll was a **1**, any number of edges saves the character’s life.
   - If the adjusted result still falls below the damage taken, the character still suffers a permanent injury.
 
-#### Permanent Injury
+### Permanent Injury
 
-A **permanent injury** represents lasting damage-physical or mental-that will never fully heal. Mechanically, a permanent injury means you **step down one of your attribute dice** (Strength, Dexterity, Intuition, or Wits-whichever makes sense in the fiction). This will also change your resistance thresholds.
+A **permanent injury** represents lasting damage-physical or mental-that will never fully heal. Mechanically, it means you **step down one attribute die** (Strength, Dexterity, Intuition, or Wits-whichever fits the fiction). This also alters your resistance thresholds.
 
-Permanent injuries should also have narrative consequences. Examples:  
-- **Physical:** A limp, a missing finger, an old wound that never quite healed.
-- **Mental:** Persistent nightmares, paranoia, memory loss, or a new phobia.
+Permanent injuries should also have narrative impact:
 
-If stepping down an attribute would take it from a **D6 to 0**, the character dies (or suffers an equally irreversible consequence agreed upon by the table).
+- **Physical:** A limp, a missing finger, an old wound that never healed.
+- **Mental:** Nightmares, paranoia, memory loss, or a new phobia.
 
-Becoming Broken should always feel like a dramatic turning point-an opportunity for the table to decide together what this moment means for the story, whether it ends a character’s journey or marks them forever.
+If stepping down an attribute would take it from **D6 to 0**, the character dies-or meets an equally irreversible fate agreed upon by the table.
+
+Becoming Broken should always feel like a dramatic turning point-an opportunity for the table to decide together what this moment means for the story.
 
 ---
 
@@ -153,44 +146,43 @@ Healing harm takes time, care, and often the help of others. Recovery is tracked
 
 ### How Healing Works
 
-Recovery is typically attempted as part of a **montage**, when the group has time to rest, regroup, and pursue their own goals. A character may usually attempt recovery no more than **twice per montage**.
+Recovery is typically attempted as part of a **montage**, when the group has time to rest, regroup, and pursue their own goals. You can usually attempt recovery no more than **twice per montage**.
 
-Someone must tend to your wounds or mental state. Most often, this involves the **Medicine** skill for physical injuries, but **Connection** might apply for emotional or mental recovery.
+Someone must tend to your wounds or mental state. This typically uses **Medicine** for physical injuries or **Connection** for emotional or mental recovery.
 
-Whoever is providing treatment rolls, and you mark a number of segments equal to the **edges** rolled:
+The healer rolls, and you mark a number of segments equal to the **edges** rolled:
 
 - **0 edges:** No progress.
 - **1 edge:** Mark 1 segment.
 - **2 edges:** Mark 2 segments.
 - **3+ edges:** Mark 3 segments.
 
-When the clock fills, reduce every harm on your sheet by one level and clear the clock. Any leftover progress carries over to a fresh clock.
+When the clock fills, reduce every harm by one category (Critical → Severe → Major → Minor → Healed) and clear the clock. Any extra progress carries over to a new clock.
 
 ### Examples of Recovery
 
-- A Level 3 harm (*Broken Arm*) is reduced to Level 2 (*Splinted Arm*).
-- A Level 2 harm (*Concussed*) is reduced to Level 1 (*Headache*).
-- A Level 1 harm (*Bruised*) is completely cleared.
+- **Severe Harm** (*Broken Arm*) becomes **Major Harm** (*Splinted Arm*).  
+- **Major Harm** (*Concussed*) becomes **Minor Harm** (*Headache*).  
+- **Minor Harm** (*Bruised*) is cleared completely.
 
 ### First Aid
 
-Immediate first aid cannot reduce harm levels but can stabilize a character to prevent death, permanent injury, or total breakdown. Examples:
+Immediate first aid can’t reduce harm categories but can stabilize a character to prevent death, permanent injury, or total collapse. Examples:
 
-- Binding wounds to stop bleeding.
-- Splinting a limb so it can be moved safely.
+- Binding wounds to stop bleeding.  
+- Splinting a limb so it can be moved safely.  
 - Talking down a panicked ally so they can act again.
 
-This buys time until proper recovery can be attempted during a montage.
+This buys time until proper recovery can happen during a montage.
 
 ### Self-Healing
 
-Characters can attempt to heal themselves, though it may be less effective or carry risk. The GM may apply disadvantage or reduced effect, and the consequences for failure can be severe (e.g., infection, lingering trauma, worsening injuries).
+You can try to heal yourself, but it’s harder and riskier. The GM may impose disadvantage, reduced effect, or new complications such as infection, lingering trauma, or worsening injury.
 
 ### Setbacks
 
-Whenever you suffer new harm, erase any progress on your healing clock. Recovery is fragile-fresh injuries can undo days or weeks of healing.
+Whenever you suffer new harm, erase any progress on your healing clock. Recovery is fragile-fresh injuries undo days or weeks of healing.
 
 ### Recovery in the Fiction
 
-Recovery isn’t just mechanical. Use these scenes to show what your character does to heal-quiet nights with a healer, whispered prayers, moments of bonding, or solitary reflection. These moments can reveal character growth, deepen relationships, or introduce new story hooks.
-
+Recovery isn’t just mechanical. Use these moments to show how you heal-quiet nights with a healer, whispered prayers, moments of bonding, or reflection. These scenes can reveal growth, deepen relationships, or open new story hooks.
