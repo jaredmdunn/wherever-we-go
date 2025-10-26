@@ -29,7 +29,7 @@ Edges make the result more dynamic than a simple pass/fail and help the story tw
 ### Value Rolls
 A **Value Roll** is used when what matters is the *number* that comes up on the dice, rather than the degree of success. Value Rolls are often used to discover new details about the world, determine a quantity, or generate a random outcome.
 
-When you make a Value Roll, you roll the required dice and use the result directly—sometimes by comparing it to a target number, sometimes by looking it up on a table, or sometimes by using the exact value as-is.
+When you make a Value Roll, you roll the required dice and use the result directly-sometimes by comparing it to a target number, sometimes by looking it up on a table, or sometimes by using the exact value as-is.
 
 Common uses include:
 - Determining how many of something appear, are lost, or are found.
@@ -50,7 +50,7 @@ Clocks are not always public information. They might:
 ### Types of Clocks
 
 #### Standard Clocks
-A **standard clock** simply fills up over time. When the clock is full, something happens — a project is completed, a threat comes to pass, or an obstacle is overcome.
+A **standard clock** simply fills up over time. When the clock is full, something happens - a project is completed, a threat comes to pass, or an obstacle is overcome.
 
 #### Tug-of-War Clocks
 A **tug-of-war clock** can fill and empty as events unfold, representing a back-and-forth struggle. These are perfect for things like social movements gaining or losing steam, a contested area switching control, or a tense negotiation swaying between two outcomes.
@@ -64,4 +64,4 @@ Clocks can track almost anything that builds toward a moment of change, such as:
 - **Obstacles:** bypassing security, dismantling defenses, solving a mystery.
 - **Countdowns:** how much time until reinforcements arrive, a storm hits, a ritual completes, or a villain’s plan comes to fruition.
 
-Clocks don’t *decide* what happens — they reflect the evolving state of the fiction and invite players to respond before time runs out.
+Clocks don’t *decide* what happens - they reflect the evolving state of the fiction and invite players to respond before time runs out.

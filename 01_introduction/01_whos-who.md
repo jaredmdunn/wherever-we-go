@@ -18,7 +18,7 @@ The players work together with the Game Master to establish the genre, tone, and
 
 ## The Characters
 
-The characters are the heart of the story. They can be anyone you imagine—rogues and raiders, wanderers and warriors, villains and visionaries, or ordinary people drawn into extraordinary circumstances.
+The characters are the heart of the story. They can be anyone you imagine-rogues and raiders, wanderers and warriors, villains and visionaries, or ordinary people drawn into extraordinary circumstances.
 
 Each character is more than just a collection of stats or abilities: they are defined by their goals, flaws, and relationships. The choices characters make and the ways they interact with the world shape not only their own journeys but also the story that emerges at the table.
 

@@ -7,7 +7,7 @@ nav_order: 10
 
 # Equipment & Inventory
 
-Equipment in *Wherever We Go* isn’t just stuff—it’s options. What you keep ready, what’s buried in a pack, and what’s stored away all shape the choices you can make when it counts.
+Equipment in *Wherever We Go* isn’t just stuff-it’s options. What you keep ready, what’s buried in a pack, and what’s stored away all shape the choices you can make when it counts.
 
 ---
 
@@ -24,7 +24,7 @@ Your inventory is organized by **how quickly you can get to it**. Each section h
 ### Access rules
 
 - **Free Play:** At-Hand is immediate; Carried usually takes a little time (GM may call for disadvantage if you’re rushed). Stored requires going to the stash in the fiction.
-- **Montages:** You can reorganize—move items between Stored, Carried, and At-Hand (typically one montage action).
+- **Montages:** You can reorganize-move items between Stored, Carried, and At-Hand (typically one montage action).
 - **Missions:** You can surface “we had it ready” via a **flashback** if it fits your loadout and the fiction.
 - **Combat:** Drawing from **At-Hand = minor action**. Drawing from **Carried = major action**. Stored is unavailable unless you brought it into the scene earlier (or via flashback).
 
@@ -39,9 +39,9 @@ Your inventory is organized by **how quickly you can get to it**. Each section h
 
 Items come in three sizes for slot accounting:
 
-- **Light** — two Light items fit in **one** normal slot.  
-- **Normal** — occupies **one** normal slot.  
-- **Heavy** — occupies **two** normal slots.
+- **Light** - two Light items fit in **one** normal slot.  
+- **Normal** - occupies **one** normal slot.  
+- **Heavy** - occupies **two** normal slots.
 
 > Example: A rope (Light) and a potion (Light) can share a single slot. A greatsword (Heavy) fills two.
 
@@ -50,14 +50,19 @@ Items come in three sizes for slot accounting:
 ## Equipment Traits
 
 ### Rarity
-- **Common / Uncommon / Rare** — influences availability, cost, and who can repair or replace it.
+- **Common / Uncommon / Rare** - influences availability, cost, and who can repair or replace it.
 
 ### Reliability
 Most gear will have a reliability score (usually 1-4). If the reliability score is reduced to 0, that item is broken and needs repair.
 - Note that using damaged gear (gear that has a reliability score below the max) may result in a penalty to the given action.
 
-### Damage (Weapons)
-Weapons list a **base damage** (usually 1–4). On a successful attack, deal base damage **+1** per additional edge.
+### Damage (Weapons and Armor)
+Weapons list a **base damage** (usually 1–4). On a successful attack, deal base damage **+1** per additional edge. Similarly, armor has a damage score that indicates how much damage it blocks if the attack hits the armor.
+
+### Coverage (Armor)
+Armor lists a coverage score (1-15). This number represents the chance that any given successful attack will hit the armor.
+
+IDEA: When you have multiple armors (e.g., a helmet and body armor), you can apply the damage score of any armor that the attack D20 is lower than.
 
 ---
 
@@ -75,8 +80,8 @@ Weapons list a **base damage** (usually 1–4). On a successful attack, deal bas
 
 Consumables have a **supply rating** showing how much you have left.
 
-- **1** — single use.
-- **D6 / D8 / D10 / D12** — a resource die.
+- **1** - single use.
+- **D6 / D8 / D10 / D12** - a resource die.
 
 **After each use or when the GM calls for it**, roll the consumable’s resource die:
 - On **1–2**, step the die **down** (D12 → D10 → D8 → D6).
@@ -102,7 +107,7 @@ Examples:
 
 ## Example Inventory (Partially Filled)
 
-Below are three tables—one per section—with the correct number of **normal slots**.  
+Below are three tables-one per section-with the correct number of **normal slots**.  
 - Two **Light** items can share a cell.  
 - **Heavy** items span two cells.  
 - Empty cells are open capacity.

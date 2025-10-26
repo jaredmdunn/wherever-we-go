@@ -6,9 +6,9 @@ nav_order: 3
 ---
 # Missions  
 
-A **mission** is when the characters set out to accomplish a clear goal—steal something valuable, assassinate a target, rescue a captive, sabotage a fortress, negotiate a treaty, or uncover a mystery.  
+A **mission** is when the characters set out to accomplish a clear goal-steal something valuable, assassinate a target, rescue a captive, sabotage a fortress, negotiate a treaty, or uncover a mystery.  
 
-Missions are about jumping straight into the action. Instead of playing out long planning scenes, *Wherever We Go* assumes that your characters are competent and have already made a plan. Play begins **in media res**—at the point of action—so the table can discover how the plan works (or doesn’t) as the story unfolds.
+Missions are about jumping straight into the action. Instead of playing out long planning scenes, *Wherever We Go* assumes that your characters are competent and have already made a plan. Play begins **in media res**-at the point of action-so the table can discover how the plan works (or doesn’t) as the story unfolds.
 
 ---
 
@@ -16,13 +16,13 @@ Missions are about jumping straight into the action. Instead of playing out long
 
 Before the mission begins, work with the GM to quickly define:  
 
-1. **Type of Mission** — What kind of approach you’re taking: assault, stealth, deception, social, research, sabotage, etc.  
-2. **Goal** — The objective: what success looks like (steal, kill, save, find, escape).  
-3. **Starting Situation** — Who is present, where the first scene takes place, and what is happening when we cut into the action.  
-4. **Clothing & Armor** — What your character is wearing into the mission, chosen from their inventory.  
-5. **Item Loadout** — How much gear you’re bringing from your inventory (see below). Specific items can be declared later in play.  
+1. **Type of Mission** - What kind of approach you’re taking: assault, stealth, deception, social, research, sabotage, etc.  
+2. **Goal** - The objective: what success looks like (steal, kill, save, find, escape).  
+3. **Starting Situation** - Who is present, where the first scene takes place, and what is happening when we cut into the action.  
+4. **Clothing & Armor** - What your character is wearing into the mission, chosen from their inventory.  
+5. **Item Loadout** - How much gear you’re bringing from your inventory (see below). Specific items can be declared later in play.  
 
-This step shouldn’t take long—just enough to get everyone on the same page before we jump straight into the engagement roll and the opening scene.  
+This step shouldn’t take long-just enough to get everyone on the same page before we jump straight into the engagement roll and the opening scene.  
 
 ### Type of Mission  
 
@@ -46,7 +46,7 @@ Clarify what success looks like. This is the *objective* of the mission.
 - A **deception** might attempt to *smuggle contraband* past a checkpoint or *trick a noble into revealing secrets*.  
 - A **research** mission might seek to *discover the source of the curse* or *locate a lost ruin*.  
 
-Having a clear goal keeps the mission focused. If the goal changes mid-mission, that’s okay—it’s part of the evolving story.  
+Having a clear goal keeps the mission focused. If the goal changes mid-mission, that’s okay-it’s part of the evolving story.  
 
 ### Starting Situation  
 
@@ -61,7 +61,7 @@ These questions should focus on how the characters enter the situation, not on d
 
 ### Clothing & Armor  
 
-Pick the clothing or armor your character is wearing from their inventory. If you want to bring more than one outfit—such as a change of clothes, a disguise, or backup armor—you’ll need to include it in your **item loadout** (below).  
+Pick the clothing or armor your character is wearing from their inventory. If you want to bring more than one outfit-such as a change of clothes, a disguise, or backup armor-you’ll need to include it in your **item loadout** (below).  
 
 Your choice of clothing and armor can influence your position: fancy attire might improve your effect at a noble’s ball, while traveling gear might put you in a worse position when trying to pass as a courtier.  
 
@@ -71,7 +71,7 @@ Your **loadout** determines how many items you’re bringing on the mission from
 
 | Loadout | Capacity | Description |
 |--------|----------|-------------|
-| **Light** | 2 normal item slots (1 heavy, 4 light, or a mix) | Inconspicuous. Everything fits on your person—perfect for blending in or traveling light. |
+| **Light** | 2 normal item slots (1 heavy, 4 light, or a mix) | Inconspicuous. Everything fits on your person-perfect for blending in or traveling light. |
 | **Normal** | 4 normal item slots (2 heavy, 8 light, or a mix) | You carry a small bag or pack. Not suspicious on its own, but too big to conceal. If your bag is stolen or lost, you must remove 2 normal items worth of gear. |
 | **Heavy** | 6 normal item slots (3 heavy, 12 light, or a mix) | Bulky and obvious. Clearly for adventuring, raiding, or traveling. You suffer **disadvantage** on Stealth rolls and other rolls where appearing discreet matters, and on Mobility rolls where a heavy load would slow you down. |
 
@@ -86,7 +86,7 @@ Once the plan is framed, the GM calls for an **engagement roll** to see how thin
 - Roll:  
   - The **highest Wits die** in the group (good intel, clear thinking).  
   - The **lowest Intuition die** in the group (how well you trust and coordinate with each other).  
-  - **+1d6 for luck** — fortune always plays a part.  
+  - **+1d6 for luck** - fortune always plays a part.  
 - Add **+1d6 for each major advantage** (good intel, allies, resources, preparation).  
 - Subtract **-1d6 for each major disadvantage** (enemy forewarned, poor conditions, time pressure).  
 
@@ -97,7 +97,7 @@ Count edges as usual:
 - **2 edges:** Solid start. Position is **Controlled**.  
 - **3+ edges:** Great start. Position is **Controlled** and the first obstacle is already dealt with.  
 
-This roll doesn’t decide success or failure—just where the PCs find themselves when the action starts.
+This roll doesn’t decide success or failure-just where the PCs find themselves when the action starts.
 
 ---
 
@@ -116,7 +116,7 @@ Flashbacks let the table discover the plan as the mission unfolds, rather than f
 
 ## Missions and Combat  
 
-Missions frequently flow into **combat** when things get dangerous—and back out again when the danger passes. The mission continues until the objective is achieved, the characters retreat, or the situation changes so dramatically that a new goal must be set.
+Missions frequently flow into **combat** when things get dangerous-and back out again when the danger passes. The mission continues until the objective is achieved, the characters retreat, or the situation changes so dramatically that a new goal must be set.
 
 ---
 
@@ -124,4 +124,4 @@ Missions frequently flow into **combat** when things get dangerous—and back ou
 
 Missions end when the objective is reached (or abandoned). Often, the conclusion leads into a **montage**, where the characters recover, reflect, or handle the fallout of their actions.  
 
-This is a great moment to take stock: What changed in the world? What opportunities opened—or closed? What new problems might arise because of what just happened?
+This is a great moment to take stock: What changed in the world? What opportunities opened-or closed? What new problems might arise because of what just happened?

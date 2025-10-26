@@ -7,7 +7,7 @@ nav_order: 2
 
 # Free Play  
 
-Free play is the **default mode of play** in *Wherever We Go*. This is where characters talk, explore, make choices, and live their lives moment to moment. There’s no special structure or clock—just the ongoing conversation between players and the GM.  
+Free play is the **default mode of play** in *Wherever We Go*. This is where characters talk, explore, make choices, and live their lives moment to moment. There’s no special structure or clock-just the ongoing conversation between players and the GM.  
 
 Free play is flexible. It can be lighthearted banter around the campfire, tense negotiations with a rival faction, or an impromptu investigation of a strange sound in the woods. It’s the connective tissue of the game, linking together missions, montages, and combat with open-ended play.  
 
@@ -28,7 +28,7 @@ Any time the story isn’t in a mission, montage, or combat, you are in free pla
 
 Free play is still a structured conversation, even if it’s looser than other modes. The GM sets the scene and asks, **“What do you do?”** Players respond, describing their actions in the fiction.  
 
-When an action has a meaningful chance of risk, cost, or consequence, the GM calls for an **action roll**. Otherwise, the action simply succeeds—no roll needed.  
+When an action has a meaningful chance of risk, cost, or consequence, the GM calls for an **action roll**. Otherwise, the action simply succeeds-no roll needed.  
 
 > **GM Tip:**  
 > 
@@ -60,7 +60,7 @@ Free play is where players have the most freedom to steer the story. They can sp
 - Seek out NPCs or locations that interest them.  
 - Share what their character is thinking or feeling.  
 
-The GM should respond by putting the world in motion—letting NPCs react, presenting opportunities, and showing the consequences of the players’ choices.  
+The GM should respond by putting the world in motion-letting NPCs react, presenting opportunities, and showing the consequences of the players’ choices.  
 
 ---
 
@@ -68,13 +68,13 @@ The GM should respond by putting the world in motion—letting NPCs react, prese
 
 Even though free play is less structured, risk is still present. A poor roll might lead to harm, new complications, or the revelation of danger that pushes the group toward a mission or combat.  
 
-Think of free play as the space where tension builds—sometimes slowly, sometimes quickly—until it tips into a more structured mode.  
+Think of free play as the space where tension builds-sometimes slowly, sometimes quickly-until it tips into a more structured mode.  
 
 ---
 
 ## Transitioning Out of Free Play  
 
-When the characters take decisive action that changes the situation—launching a heist, striking an enemy, beginning a dangerous journey—the table shifts into a different mode.  
+When the characters take decisive action that changes the situation-launching a heist, striking an enemy, beginning a dangerous journey-the table shifts into a different mode.  
 
 Free play doesn’t end abruptly; it *flows* naturally into mission, montage, or combat as the fiction demands.  
 

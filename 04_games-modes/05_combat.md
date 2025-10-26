@@ -67,11 +67,11 @@ Within zones, combatants interact at different **ranges**:
 | Range         | Description |
 |---------------|-------------|
 | **Arm’s Length** | Close enough to touch, grapple, or strike with a melee weapon. |
-| **A Step Away** | Just outside of Arm’s Length — you can close the distance with a single step. Ideal for reach weapons. |
-| **Near** | In the same zone but not adjacent — you can reach Arm’s Length with a quick move. |
-| **Short** | In an adjacent zone — across a small room, down a hallway, or just beyond a narrow barrier. |
+| **A Step Away** | Just outside of Arm’s Length - you can close the distance with a single step. Ideal for reach weapons. |
+| **Near** | In the same zone but not adjacent - you can reach Arm’s Length with a quick move. |
+| **Short** | In an adjacent zone - across a small room, down a hallway, or just beyond a narrow barrier. |
 | **Long** | Several zones away (up to four). Crossing the distance usually takes multiple moves or special effort. |
-| **Distant** | Far away — across a canyon, on a high balcony, or at the edge of a battlefield. Only the longest-range weapons or magic can reach. |
+| **Distant** | Far away - across a canyon, on a high balcony, or at the edge of a battlefield. Only the longest-range weapons or magic can reach. |
 | **Extreme** | At the limit of sight. Attacks at this range are rarely possible without special equipment or extraordinary effort. |
 
 The GM can adjust the number and size of zones to match the fiction. A close-quarters tavern brawl might be a single zone, while a running fight through city streets might span several.
@@ -82,20 +82,20 @@ The GM can adjust the number and size of zones to match the fiction. A close-qua
 
 IDEA: Major and Minor actions are not specified explicitly. They are instead open to the GM's discretion with just a few examples.
 
-Combat is a conversation, just like free play and missions — but timing and action economy matter more here. Because every second counts, actions are broken into **major** and **minor** actions to help balance pacing and spotlight.
+Combat is a conversation, just like free play and missions - but timing and action economy matter more here. Because every second counts, actions are broken into **major** and **minor** actions to help balance pacing and spotlight.
 
 Each participant can take **one major action and one minor action**, or **two minor actions**, per round. Some abilities, talents, or effects may grant extra actions.
 
 > **Attacking, Defending, and Opposed Rolls**
 > 
-> - **Attacking Actions:** Any action that directly targets another creature — striking them, grappling them, persuading them, taunting them, etc.
+> - **Attacking Actions:** Any action that directly targets another creature - striking them, grappling them, persuading them, taunting them, etc.
 > - **Defending Reactions:** When an attacking action targets you, you may defend if you still have an action left. Most defensive reactions (like dodge or block) are minor actions.
 > - **Opposed Rolls:** When an action calls for an opposed roll, it only counts as an action for the **acting creature** (the one initiating the roll). This is different from defending reactions, which do cost the defender one of their available actions.
 > - **Attack Rolls & Edges:** In combat, a successful attack requires rolling at least **one more edge** than the defender. Unlike other rolls, a single edge margin counts as a full success. If the defender cannot or chooses not to defend, only one edge is needed to succeed.
 
 ### Major Actions
 
-Major actions are the centerpiece of your turn — bold, decisive moves that change the state of the fight: attacking, grappling, sprinting, or performing high-impact tasks.
+Major actions are the centerpiece of your turn - bold, decisive moves that change the state of the fight: attacking, grappling, sprinting, or performing high-impact tasks.
 
 | Action          | Roll          | Quick Description |
 |-----------------|---------------|------------------|
@@ -107,10 +107,10 @@ Major actions are the centerpiece of your turn — bold, decisive moves that cha
 | **Break Free** | Might (Opposed by Might) | Escape a grapple and reposition. |
 | **Crawl** | Mobility (if needed) | Move while prone, staying low and slow. |
 | **Flee** | Mobility | Escape combat entirely if you have a clear exit. |
-| **Reload** | — | Reload a ranged weapon (crossbow, musket, etc.). |
+| **Reload** | - | Reload a ranged weapon (crossbow, musket, etc.). |
 | **Persuade** | Manipulation | Convince an enemy to act differently mid-fight. |
 | **Taunt** | Performance (Opposed by Insight) | Anger or distract an opponent. |
-| **Retrieve Item** | — | Draw something from your pack or gear. |
+| **Retrieve Item** | - | Draw something from your pack or gear. |
 | **Cast Spell** | See Tradition | Use a magical ability or invocation. |
 
 --- 
@@ -144,8 +144,8 @@ Make an attack with a bow, sling, firearm, or thrown weapon. Roll **Marksmanship
 > 
 > - **Readying & Loading:** Bows, slings, and other quick weapons must be readied as a minor action before firing. Crossbows, muskets, and other slow weapons require a major action to load. If you take an unrelated action, you must ready the weapon again before shooting.
 > - **Ammunition:** After each shot, roll your ammo’s **resource die** (D6–D12). On a 1–2, the die steps down one size. When it’s gone, you’re out of ammo.
-> - **Action Economy:** Drawing, readying/loading, aiming, and shooting each take separate actions — it may take multiple rounds to go from unarmed to a precise shot.
-> - **Situational Factors:** The GM may grant advantage or impose disadvantage based on visibility, distance, cover, target size, or nearby allies. Shooting into melee or through crowds carries risk — on a miss, you might hit the wrong target.
+> - **Action Economy:** Drawing, readying/loading, aiming, and shooting each take separate actions - it may take multiple rounds to go from unarmed to a precise shot.
+> - **Situational Factors:** The GM may grant advantage or impose disadvantage based on visibility, distance, cover, target size, or nearby allies. Shooting into melee or through crowds carries risk - on a miss, you might hit the wrong target.
 
 #### First Aid  
 Attempt to stabilize a Broken ally or prevent a critical injury from worsening. Roll **Medicine** (or a relevant skill if using magic or Connection for mental harm).  
@@ -180,7 +180,7 @@ Attempt to escape the combat entirely.
 - Roll **Mobility**.  
 - On success, you break away and leave the fight.  
 
-> Heart pounding, you bolt for safety — ducking, dodging, and sprinting until the chaos is behind you.  
+> Heart pounding, you bolt for safety - ducking, dodging, and sprinting until the chaos is behind you.  
 
 #### Reload  
 Reload a ranged weapon (crossbow, musket, pistol, etc.).  
@@ -189,7 +189,7 @@ Reload a ranged weapon (crossbow, musket, pistol, etc.).
 > You fumble for ammo, sliding a bolt or powder charge into place with practiced speed.  
 
 #### Persuade  
-Try to talk an opponent into doing something in the heat of battle — surrender, retreat, pause, or help you.
+Try to talk an opponent into doing something in the heat of battle - surrender, retreat, pause, or help you.
 - NPCs may get a save or opposed roll to resist, especially if your request is dangerous or costly.
 
 > You call out over the din, appealing to reason, mercy, or fear to sway your opponent.
@@ -205,7 +205,7 @@ Rattle or provoke your enemy into acting recklessly. Roll **Performance** oppose
 
 #### Retrieve Item  
 Pull something from your gear or pack.  
-- Cannot be done if an enemy is at Arm’s Length (unless you choose to risk an attack of opportunity — GM’s call).
+- Cannot be done if an enemy is at Arm’s Length (unless you choose to risk an attack of opportunity - GM’s call).
 
 > You dig through your gear, searching for the right tool to turn the tide.  
 
@@ -214,7 +214,7 @@ Unleash a prepared or invoked spell (if you have a magical talent).
 - Follow the rules for your spellcasting tradition.  
 - May cost Willpower or trigger stress depending on the magic system in play.  
 
-> You whisper the incantation, weave gestures, or channel raw power — and reality shifts to your will.
+> You whisper the incantation, weave gestures, or channel raw power - and reality shifts to your will.
 
 ### Minor Actions  
 
@@ -228,15 +228,15 @@ Minor actions are quicker, tactical moves you take alongside or instead of a maj
 | **Shove** | Melee (or Might if unarmed) | Push an opponent back or knock them prone. |
 | **Grapple Attack** | Might | Deal damage while holding a grapple. |
 | **Feint** | Manipulation (opposed by Insight) | Trick your foe into wasting an action defending. |
-| **Run** | Mobility (if needed) | Move quickly — close or create distance between zones. |
+| **Run** | Mobility (if needed) | Move quickly - close or create distance between zones. |
 | **Retreat** | Mobility | Disengage safely from Arm’s Length enemies. |
-| **Ready Weapon** | — | Prepare a ranged weapon to fire. |
-| **Draw Item** | — | Draw or pick up an item from the ground. |
-| **Get Up** | — | Stand from prone. |
-| **Aim** | — | Line up your next shot — grants **advantage** on your next ranged attack. |
-| **Cover Position** | — | Hold your aim on a spot, ready to fire when a target appears. |
-| **Use Item** | — | Drink a potion, flip a switch, pull a lever, etc. |
-| **Swing Weapon** | — | Wind up a heavy weapon — your next melee attack deals +1 damage. |
+| **Ready Weapon** | - | Prepare a ranged weapon to fire. |
+| **Draw Item** | - | Draw or pick up an item from the ground. |
+| **Get Up** | - | Stand from prone. |
+| **Aim** | - | Line up your next shot - grants **advantage** on your next ranged attack. |
+| **Cover Position** | - | Hold your aim on a spot, ready to fire when a target appears. |
+| **Use Item** | - | Drink a potion, flip a switch, pull a lever, etc. |
+| **Swing Weapon** | - | Wind up a heavy weapon - your next melee attack deals +1 damage. |
 
 #### Block (Reaction)  
 Raise a shield or weapon to catch an attack before it hits. Roll **Melee** (or **Might** if unarmed and blocking an unarmed attack).  
@@ -277,7 +277,7 @@ Strike a foe you’re holding in a grapple. Roll **Might**.
 
 #### Feint  
 Roll **Manipulation** vs. the opponent’s **Insight**.  
-- If you win, your opponent must spend an action to dodge or block — even though you don’t actually attack - and you have **advantage** on your next action against that opponent.
+- If you win, your opponent must spend an action to dodge or block - even though you don’t actually attack - and you have **advantage** on your next action against that opponent.
 
 > You fake an opening, forcing your enemy to waste time reacting to a strike that never comes.  
 
@@ -293,7 +293,7 @@ Disengage safely from enemies at **Arm’s Length**. Roll **Mobility**.
 - On success, move to Near range without provoking attacks.  
 - On failure, each engaged enemy gets a free attack.  
 
-> You back away carefully, keeping your guard up — but a single misstep could cost you.  
+> You back away carefully, keeping your guard up - but a single misstep could cost you.  
 
 #### Ready Weapon  
 Prepare a ranged weapon for use. No roll required.  
@@ -327,7 +327,7 @@ Hold your weapon trained on a location or lane of approach.
   - You take damage.  
   - An enemy reaches Arm’s Length.  
 
-> You hold steady, waiting for the right moment — the instant someone moves, you fire.  
+> You hold steady, waiting for the right moment - the instant someone moves, you fire.  
 
 #### Use Item  
 Interact with an item or the environment.  

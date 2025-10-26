@@ -22,7 +22,7 @@ Each skill is based on one attribute. Whenever you take an action, you will roll
 ## Strength
 
 ### Force
-Applying raw strength to overcome resistance—lifting, breaking, striking, or moving heavy things.
+Applying raw strength to overcome resistance-lifting, breaking, striking, or moving heavy things.
 
 Examples:
 - Smashing through a barred door with a battering ram.
@@ -30,7 +30,7 @@ Examples:
 - Driving a foe backward with a powerful shield bash.
 
 ### Endurance
-Sustaining effort under strain—carrying weight, absorbing blows, and pushing through fatigue.
+Sustaining effort under strain-carrying weight, absorbing blows, and pushing through fatigue.
 
 Examples:
 - Holding your breath under water.
@@ -38,7 +38,7 @@ Examples:
 - Carrying two wounded allies to safety before collapsing.
 
 ### Melee
-Close combat with weapons—from swords to axes to blunt instruments.
+Close combat with weapons-from swords to axes to blunt instruments.
 
 Examples:
 - Crossing blades with a skilled duelist.
@@ -58,7 +58,7 @@ Examples:
 ## Dexterity
 
 ### Marksmanship
-Accuracy with ranged weapons—from thrown objects to bows to firearms.
+Accuracy with ranged weapons-from thrown objects to bows to firearms.
 
 Examples:
 - Landing a bullseye with a longbow.
@@ -66,7 +66,7 @@ Examples:
 - Taking down a guard with a musket shot.
 
 ### Mobility
-Speed, balance, and ability to maneuver with precision—running, jumping, tumbling, climbing, etc.
+Speed, balance, and ability to maneuver with precision-running, jumping, tumbling, climbing, etc.
 
 Examples:
 - Sprinting across a collapsing bridge.
@@ -74,7 +74,7 @@ Examples:
 - Dodging through a crowded marketplace.
 
 ### Precision
-Skilled, controlled handwork—precise motion, focus, and technique applied to tools, devices, or delicate materials.
+Skilled, controlled handwork-precise motion, focus, and technique applied to tools, devices, or delicate materials.
 
 Examples:
 - Picking a noble’s pocket unnoticed.
@@ -118,7 +118,7 @@ Examples:
 - Spinning a lie so convincing it becomes truth.
 
 ### Performance
-The ability to express oneself dramatically or artistically—to move, inspire, or distract others through any form of performance.
+The ability to express oneself dramatically or artistically-to move, inspire, or distract others through any form of performance.
 
 Examples:
 - Captivating a tavern with a ballad.
@@ -138,7 +138,7 @@ Examples:
 - Reprogramming a drone or hacking a terminal.
 
 ### Learning
-Knowing things—history, culture, religion, politics, and other academic topics—and the ability to study and learn.
+Knowing things-history, culture, religion, politics, and other academic topics-and the ability to study and learn.
 
 Examples:
 - Recalling an ancient legend or law.

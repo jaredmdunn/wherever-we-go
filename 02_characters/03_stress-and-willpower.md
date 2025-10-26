@@ -17,7 +17,7 @@ Stress is temporary. It comes and goes within a session and gives you a way to m
 
 You gain **1 stress** when you:
 
-- **Push a roll** — rerolling after a failure or partial success.
+- **Push a roll** - rerolling after a failure or partial success.
 - **Choose to take stress** in place of a worse consequence (if allowed by the GM) or when using an ability.
 
 You must add stress dice to an action roll if it is **Desperate** or **Dire** or any time you push. See [Position](/03_action-rolls/index.md#position).
@@ -27,7 +27,7 @@ You must add stress dice to an action roll if it is **Desperate** or **Dire** or
 Stress doesn’t stick around forever. You can clear it by taking time to rest, focus, or connect with others.
 
 Clearing stress is typically done as part of a **montage action**:
-- Describe how your character releases tension—resting, meditating, laughing with friends, working on a craft, sparring, or otherwise centering themselves.
+- Describe how your character releases tension-resting, meditating, laughing with friends, working on a craft, sparring, or otherwise centering themselves.
 - Roll an appropriate skill (common choices include **Connection** to bond with others and **Insight** for quiet reflection).
 - Clear a number of stress dice equal to **edges rolled + 1**.
 
@@ -43,7 +43,7 @@ Stress is meant to build tension, not punish players. It makes rolls more dramat
 
 Willpower (WP) is the currency you spend for your character’s biggest, most meaningful moments. It powers abilities, fuels your drives, and lets you go further when the stakes are high.
 
-You can have a maximum of **6 WP** at a time. Tracking WP matters—when you spend it, it should feel like your character is digging deep.
+You can have a maximum of **6 WP** at a time. Tracking WP matters-when you spend it, it should feel like your character is digging deep.
 
 ### Gaining Willpower
 

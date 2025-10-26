@@ -7,7 +7,7 @@ nav_order: 5
 
 # Talents
 
-Talents represent what makes you exceptional—your refined training, natural aptitude, or unique approach to action. They’re the signature techniques, instincts, and specialties that set you apart from ordinary people.
+Talents represent what makes you exceptional-your refined training, natural aptitude, or unique approach to action. They’re the signature techniques, instincts, and specialties that set you apart from ordinary people.
 
 Each Talent has a **die rating** (from **D6** to **D12**) representing how proficient you are with that talent.
 
@@ -42,7 +42,7 @@ You can mark which abilities you’ve unlocked with a check mark.
 ## Example Talents: 
 
 ### Spear Fighter (D8)
-*Masters of reach, timing, and control—you keep foes at bay, punish advances, and turn distance into an advantage.*
+*Masters of reach, timing, and control-you keep foes at bay, punish advances, and turn distance into an advantage.*
 
 - [x] **Spear Expertise** - Add your **Talent die** when you make any Melee attacks with a spear.
 - [x] **Reach Advantage** *(Requires D8)* - If an enemy closes with you, spend **1 WP** to stop them at **A Step Away** and make an attack as a **minor action**.
@@ -58,20 +58,20 @@ You can mark which abilities you’ve unlocked with a check mark.
 - [x] **Shield Expertise** - Add your **Talent die** when you use a shield to block or bash in melee.
 - [ ] **Brace and Bash** *(Requires D8)* - When you block an attack and succeed with a greater number of edges than your opponent, you can bash your opponent as part of your attack and deal an amount of damage equal to excess of edges. Your opponent cannot block or dodge.
 - [ ] **Hold the Line** - When allies within **A Step Away** are targeted by an attack, you can spend 1 WP to give the ally an armor with a coverage score equal to **5 + your Talent die size** and a damage score equal to the damage score of your shield.
-- [ ] **Deflecting Edge** *(Requires D10)* - Spend **1 WP** to negate the effects of one ranged attack that would hit you. The shield is struck instead—reduce its **Reliability** by the damage of the attacking weapon.
+- [ ] **Deflecting Edge** *(Requires D10)* - Spend **1 WP** to negate the effects of one ranged attack that would hit you. The shield is struck instead-reduce its **Reliability** by the damage of the attacking weapon.
 - [ ] **Crushing Blow** *(Requires D12)* - When you shield bash, you also knock the target **prone**.
 
 ### Streetwise Survivor (D8)
-*You’ve learned to thrive where others scrape by—reading danger, cutting deals, and getting out alive.*
+*You’ve learned to thrive where others scrape by-reading danger, cutting deals, and getting out alive.*
 
 - [x] **Urban Instincts** - Add your **Talent die** on Observation or Mobility rolls made in crowded environments.
 - [ ] **Quick Getaway** *(Requires D8)* - Spend **1 WP** to immediately move **A Step Away** after avoiding damage or detection.
-- [ ] **Underworld Contacts** *(Requires D10)* - You know someone who can get what you need—roll **Connection** and add your **Talent die** to find a contact with useful information or goods.
+- [ ] **Underworld Contacts** *(Requires D10)* - You know someone who can get what you need-roll **Connection** and add your **Talent die** to find a contact with useful information or goods.
 - [ ] **Improvised Weapon** *(Requires D10)* - When you use a makeshift weapon, roll your **Talent die**.
 - [ ] **Nine Lives** *(Requires D12)* - Once per combat, if you would take damage that is potentially fatal, you can spend **3 WP** to reduce it to **0** and describe how you miraculously survive.
 
 ### Field Surgeon (D10)
-*You’ve learned to keep people alive in the worst conditions—field hospitals, trenches, or back alleys. You know how to work fast, smart, and under fire.*
+*You’ve learned to keep people alive in the worst conditions-field hospitals, trenches, or back alleys. You know how to work fast, smart, and under fire.*
 
 - [x] **Medical Expertise** - Add your **Talent die** when you make **Medicine** rolls to treat injuries, poison, or disease.
 - [x] **Triage** *(Requires D8)* - In combat, you can roll **Medicine** as a free action to instantly identify the most critically wounded person within **Short** distance.
@@ -79,7 +79,7 @@ You can mark which abilities you’ve unlocked with a check mark.
 - [ ] **Improvised Tools** *(Requires D12)* - You can treat injuries or illnesses without proper equipment, ignoring penalties for lack of gear.
 
 ### Priest (D8)
-*You channel divine, spiritual, or philosophical power through faith, ritual, and conviction—whether from gods, spirits, or sheer belief.*
+*You channel divine, spiritual, or philosophical power through faith, ritual, and conviction-whether from gods, spirits, or sheer belief.*
 
 - [x] **Studious Devotion** - Add your **Talent die** when making **Learning** rolls related to religion.
 - [x] **Divine Insight** *(Requires D8)* - Add your **Talent die** when making **Connection** or **Insight** rolls related to faith, devotion, or moral guidance.

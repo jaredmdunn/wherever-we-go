@@ -55,7 +55,7 @@ Failure does not mean the story stops. Instead, the GM should apply **benefits a
 ### Consequences
 - Worse position for your next action or an ally’s action.
 - A new complication, threat, or obstacle arises.
-- The opportunity is lost—you must try another approach.
+- The opportunity is lost-you must try another approach.
 - You take stress.
 - You take harm.
 - The action was less effective than expected.

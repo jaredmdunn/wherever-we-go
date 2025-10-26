@@ -34,7 +34,7 @@ Coin is not spent explicitly to buy things. Instead, it can help you in certain 
 ---
 
 ## Wealth  
-Wealth represents your long-term savings, investments, and financial reserves. It’s not money in your pocket—it’s money you’ve set aside and secured.  
+Wealth represents your long-term savings, investments, and financial reserves. It’s not money in your pocket-it’s money you’ve set aside and secured.  
 
 | Wealth Score | Dice | Description                                |
 |--------------|-------|--------------------------------------------|
@@ -49,16 +49,16 @@ Paying for goods and services never costs a fixed amount of coin. Unless you are
 
 When you make a significant purchase or payment, **roll your wealth dice** and add **+1D6** for each coin you choose to spend on top.
 
-The outcome of the roll determines the **quality** of what you acquire—not whether you acquire it at all. Even a low roll means you succeed, but the result may be poor quality, slow delivery, or unreliable. A high roll yields excellent quality, fast service, or lasting benefit.
+The outcome of the roll determines the **quality** of what you acquire-not whether you acquire it at all. Even a low roll means you succeed, but the result may be poor quality, slow delivery, or unreliable. A high roll yields excellent quality, fast service, or lasting benefit.
 
 ### Wealth Roll Results  
 
 A wealth roll works like an action roll, but instead of measuring success or failure, it measures the **quality of what you secure relative to your current wealth score**. A character with higher wealth will naturally get better outcomes overall, even on low-edge results.  
 
-- **0 edges (Below Standard):** You manage something worse than what your wealth would normally provide—low quality, inconvenient, or disappointing for your means.  
-- **1 edge (Standard):** You get the expected quality for someone of your wealth—average, reliable, and what others would expect of you.  
-- **2 edges (Above Standard):** You secure something a step better than expected—higher quality, faster, or more impressive than the baseline for your wealth.  
-- **3+ edges (Exceptional):** You obtain something remarkable for your station—far exceeding expectations, with added benefits, prestige, or reliability.  
+- **0 edges (Below Standard):** You manage something worse than what your wealth would normally provide-low quality, inconvenient, or disappointing for your means.  
+- **1 edge (Standard):** You get the expected quality for someone of your wealth-average, reliable, and what others would expect of you.  
+- **2 edges (Above Standard):** You secure something a step better than expected-higher quality, faster, or more impressive than the baseline for your wealth.  
+- **3+ edges (Exceptional):** You obtain something remarkable for your station-far exceeding expectations, with added benefits, prestige, or reliability.  
 
 | Edges | Result | Guidance |
 |-------|--------|----------|

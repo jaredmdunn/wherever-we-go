@@ -8,7 +8,7 @@ nav_order: 4
 # Traits
 Traits are the fixed, defining characteristics that set each character and creature apart in *Wherever We Go*. Rather than relying on broad categories like “race,” “ancestry,” or “species,” this system uses traits to describe the natural features, strengths, and limitations that make your character unique.
 
-Traits can represent anything from physical size to heightened senses, natural armor, or unusual movement. They’re not meant to capture every detail of appearance or backstory—only the features that are significant enough to have a **mechanical impact** during play.
+Traits can represent anything from physical size to heightened senses, natural armor, or unusual movement. They’re not meant to capture every detail of appearance or backstory-only the features that are significant enough to have a **mechanical impact** during play.
 
 Whether you want to play a nimble halfling, a towering automaton, or a wolfkin with keen senses, traits provide the tools to highlight what makes your character stand out.
 
@@ -39,13 +39,13 @@ Skills for the specified attribute come less naturally.
 How large or small you are compared to a regular human.
 
 #### Smaller
-You are significantly smaller than the average human—child-sized, halfling-like, or a diminutive construct.
+You are significantly smaller than the average human-child-sized, halfling-like, or a diminutive construct.
 - **Stealth Bonus:** +1 bonus on Stealth rolls where small size helps you hide, squeeze, or avoid notice.
 - **Manipulation Bonus:** +1 bonus on Manipulation rolls where being small helps you appear harmless or unimportant.
 - **Strength Limit:** Your Strength cannot be rated higher than a **d8**.
 
 #### Larger
-You are notably larger than the average human—like ogres, large robots, or genetically enhanced beings.
+You are notably larger than the average human-like ogres, large robots, or genetically enhanced beings.
 - **Might/Menace Bonus:** +1 bonus on Might or Menace rolls where size and mass are advantageous.
 - **Stealth Penalty:** –1 penalty on Stealth rolls where size makes hiding or moving quietly difficult.
 - **Strength Minimum:** Your Strength cannot be rated lower than a **d10**.
@@ -68,7 +68,7 @@ You are protected by natural armor (thick hide, scales, exoskeleton, etc.).
 - Natural armor works exactly like regular armor, except it cannot be broken by ordinary means.
 
 ### Resistances, Vulnerabilities, and Immunities
-These traits define how you interact with specific harmful forces—reducing, increasing, or negating their effects. Apply them when resisting an effect or taking damage of that type.
+These traits define how you interact with specific harmful forces-reducing, increasing, or negating their effects. Apply them when resisting an effect or taking damage of that type.
 
 #### Resistant (*Effect*)
 You take half damage or gain a **+1 bonus** on rolls to resist the specified effect (fire, cold, poison, etc.).
@@ -97,7 +97,7 @@ You can see in darkness as well as daylight.
 If paired with **Darkvision**, you have **Dull (Vision)** in bright light.
 
 ### Movement
-These traits describe how you move through the world, granting new forms of movement or modifying existing ones. They may let you climb, swim, or fly more easily—or make certain types of movement slower or more difficult.
+These traits describe how you move through the world, granting new forms of movement or modifying existing ones. They may let you climb, swim, or fly more easily-or make certain types of movement slower or more difficult.
 
 #### Flying
 You can fly or levitate. Flight counts as a **minor action** in combat.
