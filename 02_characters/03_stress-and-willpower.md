@@ -17,10 +17,10 @@ Stress is temporary. It comes and goes within a session and gives you a way to m
 
 You gain **1 stress** when you:
 
-- **Push a roll** - rerolling after a failure or partial success.
+- **Gamble on a roll** after seeing the initial result.
 - **Choose to take stress** in place of a worse consequence (if allowed by the GM) or when using an ability.
 
-You must add stress dice to an action roll if it is **Desperate** or **Dire** or any time you push. See [Position](/03_action-rolls/index.md#position).
+Your current stress score is also the number of stress dice (D6s) you roll when you push or gamble on an action. See [Action Rolls](/03_action-rolls/index.md).
 
 ### Clearing Stress
 
@@ -61,4 +61,4 @@ You spend WP when you want to make your most dramatic choices matter:
 - **Activating Abilities:** Some abilities will cost WP in order for you to use them. See [Talents](/02_characters/05_talents.md)
 - **Casting Spells:** You must spend WP to cast spells. See [Magic](/magic/index.md).
 - **Invoking and Defying Drives:** Spend 1 WP to add a bonuses equal to the intensity of a relevant Drive. If you are resisting the pull of drive and acting against it, spend 1 WP. See [Drives](/02_characters/06_drives.md).
-- **Digging Deep:** On Desperate and Dire rolls, you must add stress dice, but you can dig deep to add that extra power to Risky rolls as well by spending 1 WP.
+- **Pushing an Action:** Before you roll, you can spend 1 WP to **push**—add a number of stress dice equal to your current stress, trading safety for more chances at edges (and banes). See [Pushing, Gambling, and Stress](/03_action-rolls/index.md#pushing-gambling-and-stress).

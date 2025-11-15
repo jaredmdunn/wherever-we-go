@@ -42,12 +42,12 @@ layout: default
 - Action Rolls
   - Dice pool rolls
   - Failure / Mixed Success / Success / Critical
-  - Position and Effect
+  - Stakes and Effect
   - Benefits and Consequences
 - Luck Rolls
 - Advantage and Disadvantage
 - Helping
-- Pushing and Stress
+- Pushing, Gambling, and Stress
 - Equipment in Rolls
 - Opposed Rolls
 - Group Rolls

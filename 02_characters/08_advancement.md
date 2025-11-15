@@ -26,7 +26,7 @@ These advancement clocks can be filled up in two ways:
 ### Experience
 Characters learn from their experience, success or failure, when the stakes are high enough.
 
-Every time you make a **desperate** or **dire** roll with a skill, mark xp on that skill's advancement clock.
+Every time you make a **gamble** with a skill, mark xp on that skill's advancement clock.
 
 ### Training
 Characters can intentionally focus on improving skills by training them. This typically occurs in a montage phase. Imagine a training montage like in *Rocky*.

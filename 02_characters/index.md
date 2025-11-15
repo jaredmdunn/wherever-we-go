@@ -14,11 +14,11 @@ Skills represent the knowledge, training, and experience your character has gain
 ## Stress and Willpower
 Stress helps you succeed but too much stress can make you crumble.
 
-Willpower powers your talents.
+Willpower powers your talents and your boldest moves.
 
-Sometimes, you can use willpower to draw on your stress (spend 1 WP in a risky position to add stress dice).
+Sometimes, you can spend willpower to **push** before a roll, adding stress dice equal to your current stress, or to power abilities and spells. After a roll, you can **gamble**, increasing your stress to reroll in search of a better outcome.
 
-?? Each edge rolled on stress dice adds 1 WP.
+Each edge rolled on stress dice both adds to your total edges and earns you 1 WP.
 
 ## Traits
 Traits are the fixed, defining characteristics that set each character and creature apart in *Wherever You Go*. Rather than relying on traditional categories like "race," "ancestry," or "species," this system uses traits to describe the natural features, strengths, and limitations that make your character unique. Traits can represent anything from physical size to heightened senses, natural armor, or unusual modes of movement.

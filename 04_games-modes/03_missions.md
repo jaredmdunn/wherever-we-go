@@ -26,7 +26,7 @@ This step shouldn’t take long-just enough to get everyone on the same page bef
 
 ### Type of Mission  
 
-Choose the overall approach for your mission. This frames the tone, position, and kind of challenges you’ll face. Examples include:  
+Choose the overall approach for your mission. This frames the tone, starting situation, and kind of challenges you’ll face. Examples include:  
 
 - **Assault:** Kick in the door and take something by force.  
 - **Stealth:** Sneak in, avoid notice, and get out unseen.  
@@ -63,7 +63,7 @@ These questions should focus on how the characters enter the situation, not on d
 
 Pick the clothing or armor your character is wearing from their inventory. If you want to bring more than one outfit-such as a change of clothes, a disguise, or backup armor-you’ll need to include it in your **item loadout** (below).  
 
-Your choice of clothing and armor can influence your position: fancy attire might improve your effect at a noble’s ball, while traveling gear might put you in a worse position when trying to pass as a courtier.  
+Your choice of clothing and armor can influence how people react to you and what kinds of consequences are on the table: fancy attire might improve your effect at a noble’s ball, while traveling gear might draw suspicion when you’re trying to pass as a courtier.  
 
 ### Item Loadout  
 
@@ -92,10 +92,10 @@ Once the plan is framed, the GM calls for an **engagement roll** to see how thin
 
 Count edges as usual:  
 
-- **0 edges:** Things start badly. Position is **Desperate**.  
-- **1 edge:** Mixed situation. Position is **Risky**.  
-- **2 edges:** Solid start. Position is **Controlled**.  
-- **3+ edges:** Great start. Position is **Controlled** and the first obstacle is already dealt with.  
+- **0 edges:** Things start badly—you’re in immediate danger, off-balance, or caught in a terrible spot.  
+- **1 edge:** Mixed situation—you have a foothold, but danger or complications are close at hand.  
+- **2 edges:** Solid start—you’re in a strong, controlled situation with room to maneuver.  
+- **3+ edges:** Great start—you’re in a strong situation and the first obstacle is already dealt with.  
 
 This roll doesn’t decide success or failure-just where the PCs find themselves when the action starts.
 
