@@ -35,19 +35,7 @@ Your inventory is organized by **how quickly you can get to it**. Each section h
 
 ---
 
-## Item Slots & Weight
-
-Items come in three sizes for slot accounting:
-
-- **Light** - two Light items fit in **one** normal slot.  
-- **Normal** - occupies **one** normal slot.  
-- **Heavy** - occupies **two** normal slots.
-
-> Example: A rope (Light) and a potion (Light) can share a single slot. A greatsword (Heavy) fills two.
-
----
-
-## Equipment Traits
+## Equipment Characteristics
 
 ### Rarity
 - **Common / Uncommon / Rare** - influences availability, cost, and who can repair or replace it.
@@ -62,7 +50,19 @@ Weapons list a **base damage** (usually 1–4). On a successful attack, deal bas
 ### Coverage (Armor)
 Armor lists a coverage score (1-15). This number represents the chance that any given successful attack will hit the armor.
 
-IDEA: When you have multiple armors (e.g., a helmet and body armor), you can apply the damage score of any armor that the attack D20 is lower than.
+When you have multiple armors (e.g., a helmet and body armor), you can apply the damage score of any armor that the attack D20 is lower than. Damage scores do not stack.
+
+### Size
+Items come in three sizes for slot accounting:
+
+- **Light** - two Light items fit in **one** normal slot.  
+- **Normal** - occupies **one** normal slot.  
+- **Heavy** - occupies **two** normal slots.
+
+> Example: A rope (Light) and a potion (Light) can share a single slot. A greatsword (Heavy) fills two.
+
+### Traits
+Equipment may have other special characteristics called traits that describe special features of that particular piece of equipment.
 
 ---
 
