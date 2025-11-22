@@ -4,7 +4,7 @@ layout: default
 parent: Game Modes
 nav_order: 3
 ---
-# Missions  
+# Missions
 
 A **mission** is when the characters set out to accomplish a clear goal-steal something valuable, assassinate a target, rescue a captive, sabotage a fortress, negotiate a treaty, or uncover a mystery.  
 
@@ -12,7 +12,7 @@ Missions are about jumping straight into the action. Instead of playing out long
 
 ---
 
-## Planning the Mission  
+## Planning the Mission
 
 Before the mission begins, work with the GM to quickly define:  
 
@@ -24,7 +24,7 @@ Before the mission begins, work with the GM to quickly define:
 
 This step shouldn’t take long-just enough to get everyone on the same page before we jump straight into the engagement roll and the opening scene.  
 
-### Type of Mission  
+### Type of Mission
 
 Choose the overall approach for your mission. This frames the tone, starting situation, and kind of challenges you’ll face. Examples include:  
 
@@ -37,7 +37,7 @@ Choose the overall approach for your mission. This frames the tone, starting sit
 
 Your chosen type doesn’t lock you into one tactic, but it does set the *approach* that the GM uses to frame initial obstacles.  
 
-### Goal  
+### Goal
 
 Clarify what success looks like. This is the *objective* of the mission.  
 
@@ -48,7 +48,7 @@ Clarify what success looks like. This is the *objective* of the mission.
 
 Having a clear goal keeps the mission focused. If the goal changes mid-mission, that’s okay-it’s part of the evolving story.  
 
-### Starting Situation  
+### Starting Situation
 
 Decide where we pick up the action. This is where you set the tone and context for the mission’s opening scene. The GM can prompt with questions like:  
 
@@ -59,13 +59,13 @@ Decide where we pick up the action. This is where you set the tone and context f
 
 These questions should focus on how the characters enter the situation, not on detailed preparations. The answers will shape the first scene, help the GM establish some initial obstacles, and create a clear starting point for the engagement roll.
 
-### Clothing & Armor  
+### Clothing & Armor
 
 Pick the clothing or armor your character is wearing from their inventory. If you want to bring more than one outfit-such as a change of clothes, a disguise, or backup armor-you’ll need to include it in your **item loadout** (below).  
 
 Your choice of clothing and armor can influence how people react to you and what kinds of consequences are on the table: fancy attire might improve your effect at a noble’s ball, while traveling gear might draw suspicion when you’re trying to pass as a courtier.  
 
-### Item Loadout  
+### Item Loadout
 
 Your **loadout** determines how many items you’re bringing on the mission from your inventory and how encumbered or conspicuous you are.  
 
@@ -79,7 +79,7 @@ Loadouts are chosen before the mission begins, but you don’t need to list ever
 
 ---
 
-## The Engagement Roll  
+## The Engagement Roll
 
 Once the plan is framed, the GM calls for an **engagement roll** to see how things begin:  
 
@@ -90,7 +90,7 @@ Once the plan is framed, the GM calls for an **engagement roll** to see how thin
 - Add **+1d6 for each major advantage** (good intel, allies, resources, preparation).  
 - Subtract **-1d6 for each major disadvantage** (enemy forewarned, poor conditions, time pressure).  
 
-Count edges as usual:  
+Count edges as usual:
 
 - **0 edges:** Things start badly—you’re in immediate danger, off-balance, or caught in a terrible spot.  
 - **1 edge:** Mixed situation—you have a foothold, but danger or complications are close at hand.  
@@ -101,7 +101,7 @@ This roll doesn’t decide success or failure-just where the PCs find themselves
 
 ---
 
-## Flashbacks  
+## Flashbacks
 
 Flashbacks allow you to reveal preparations your characters made off-screen: bribing a guard, hiding gear, scouting the location, etc.  
 
@@ -114,13 +114,13 @@ Flashbacks let the table discover the plan as the mission unfolds, rather than f
 
 ---
 
-## Missions and Combat  
+## Missions and Combat
 
 Missions frequently flow into **combat** when things get dangerous-and back out again when the danger passes. The mission continues until the objective is achieved, the characters retreat, or the situation changes so dramatically that a new goal must be set.
 
 ---
 
-## Ending the Mission  
+## Ending the Mission
 
 Missions end when the objective is reached (or abandoned). Often, the conclusion leads into a **montage**, where the characters recover, reflect, or handle the fallout of their actions.  
 

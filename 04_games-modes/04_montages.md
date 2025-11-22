@@ -10,6 +10,8 @@ A **montage** is used whenever the story needs to cover a stretch of time withou
 
 Montages let each character take meaningful actions while keeping the story moving forward. They are a tool for zooming out, focusing on each character in turn, and giving everyone a chance to show what they’re doing during the downtime or journey.
 
+---
+
 ## Setting Up a Montage
 
 When entering a montage, the GM works with the players to set the **scope of time** and a **montage clock** to represent how much time passes before the next big event pulls the characters back into free play.
@@ -21,6 +23,8 @@ When entering a montage, the GM works with the players to set the **scope of tim
 - **Long Montage:** 3 ticks per player. Several weeks or months of downtime, an expedition, or a long-term break from action.
 
 The length of the clock should match the fictional time being skipped-if a month passes, the montage should feel big enough to cover that.
+
+---
 
 ## Taking Montage Actions
 
@@ -40,6 +44,8 @@ Examples of montage actions:
 
 When the clock is full, time advances and something happens to bring the game back to **free play**: a new opportunity appears, trouble catches up with the characters, or they arrive at their destination.
 
+---
+
 ## Complications and Benefits
 
 Montages aren’t just quiet bookkeeping-they can lead to new drama or opportunities. As players make rolls during a montage, the GM can introduce **complications** or **benefits**:
@@ -49,6 +55,8 @@ Montages aren’t just quiet bookkeeping-they can lead to new drama or opportuni
 
 Montages are an opportunity for the GM to advance world events, reveal threats, or set up the next big scene.
 
+---
+
 ## Using Montages for Journeys
 
 Montages are especially helpful for travel. Each player can describe how their character contributes to the journey-scouting ahead, cooking for the group, standing watch, or simply entertaining their companions. The montage clock ensures the journey feels like time is passing, and events can occur along the way:
@@ -57,6 +65,8 @@ Montages are especially helpful for travel. Each player can describe how their c
 - Discoveries or landmarks along the route.
 - Bandits, wild beasts, or natural hazards.
 - Personal moments between characters.
+
+---
 
 ## Ending the Montage
 
