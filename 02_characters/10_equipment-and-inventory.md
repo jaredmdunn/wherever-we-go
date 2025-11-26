@@ -37,20 +37,18 @@ Your inventory is organized by **how quickly you can get to it**. Each section h
 
 ## Equipment Characteristics
 
+In addition to its description, with details about how the equipment works, looks, and can be used, equipment will have a few other standard characteristics:
+
+- Rarity - how common the item is.
+- Reliability - the "health" of the item, how long it will last before breaking.
+- Size - how large the item is, how much space it takes up in inventory.
+
 ### Rarity
 - **Common / Uncommon / Rare** - influences availability, cost, and who can repair or replace it.
 
 ### Reliability
 Most gear will have a reliability score (usually 1-4). If the reliability score is reduced to 0, that item is broken and needs repair.
 - Note that using damaged gear (gear that has a reliability score below the max) may result in a penalty to the given action.
-
-### Damage (Weapons and Armor)
-Weapons list a **base damage** (usually 1–4). On a successful attack, deal base damage **+1** per additional edge. Similarly, armor has a damage score that indicates how much damage it blocks if the attack hits the armor.
-
-### Coverage (Armor)
-Armor lists a coverage score (1-15). This number represents the chance that any given successful attack will hit the armor.
-
-When you have multiple armors (e.g., a helmet and body armor), you can apply the damage score of any armor that the attack D20 is lower than. Damage scores do not stack.
 
 ### Size
 Items come in three sizes for slot accounting:
@@ -60,9 +58,6 @@ Items come in three sizes for slot accounting:
 - **Heavy** - occupies **two** normal slots.
 
 > Example: A rope (Light) and a potion (Light) can share a single slot. A greatsword (Heavy) fills two.
-
-### Traits
-Equipment may have other special characteristics called traits that describe special features of that particular piece of equipment.
 
 ---
 
