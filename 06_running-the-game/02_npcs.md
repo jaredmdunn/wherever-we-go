@@ -2,7 +2,7 @@
 title: NPCs
 layout: default
 parent: Running the Game
-nav_order: 1
+nav_order: 2
 ---
 
 # NPCs
@@ -67,12 +67,12 @@ For most NPCs, you can use a compact format:
 
 Example:
 
-- **Name:** Captain Mira Thorn  
-  **Role:** Harbor guard captain, loyal to the city but suspicious of outsiders  
-  **Body:** 2D8 **Mind:** 2D6  
-  **Talents:** Sword Master (D8), Veteran Investigator (D6)  
-  **Health:** 16 **Resolve:** 12  
+- **Name:** Captain Mira Thorn
+  **Role:** Harbor guard captain, loyal to the city but suspicious of outsiders
   **Motives:** Keep the docks safe, protect her crew, uncover smuggling rings.
+  **Body:** 2D8 **Mind:** 2D6
+  **Talents:** Sword Master (D8), Veteran Investigator (D6)  
+  **Health:** 16 **Resolve:** 12
 
 Use this format in your notes or index cards so you can grab and run an NPC in seconds.
 
@@ -94,7 +94,7 @@ If you are unsure, start with **2D8** for a typical person and step up or down d
 
 ## Talents
 
-Talents represent things an NPC is especially good at—skills, training, magical gifts, or unusual advantages. Talents work like PC talents: when a talent is clearly relevant to an action, add the talent die to the roll.
+Talents represent things an NPC is especially good at: skills, training, magical gifts, or unusual advantages. Talents work like PC talents: when a talent is clearly relevant to an action, add the talent die to the roll.
 
 Give most side NPCs **1-3 talents**. Keep them broad and evocative rather than narrow and technical.
 
@@ -126,6 +126,8 @@ You can adjust these values up or down if the fiction demands it—fragile but d
 
 When an NPC takes harm, reduce Health or Resolve according to the damage rules. Most side NPCs are taken out of a scene once they are Broken; you rarely need to track long-term injuries for them unless they are important to the story.
 
+---
+
 ## Animals
 
 Animals mostly work like normal NPCs, with a few tweaks:
@@ -140,6 +142,8 @@ Example:
 - **Wolf** - Body 2D8, Mind 1D6; Talents: Tracker (D6), Pack Hunter (D6), Keen Senses (D6).
 
 Use animals to reinforce the tone of the world—loyal companions, terrifying predators, or mysterious wilderness presences.
+
+---
 
 ## Monsters, Spirits, Immortals, and Gods
 

@@ -33,7 +33,7 @@ Coin is not spent explicitly to buy things. Instead, it can help you in certain 
 
 ---
 
-## Wealth  
+## Wealth
 Wealth represents your long-term savings, investments, and financial reserves. It’s not money in your pocket-it’s money you’ve set aside and secured.  
 
 | Wealth Score | Dice | Description                                |
@@ -51,7 +51,7 @@ When you make a significant purchase or payment, **roll your wealth dice** and a
 
 The outcome of the roll determines the **quality** of what you acquire-not whether you acquire it at all. Even a low roll means you succeed, but the result may be poor quality, slow delivery, or unreliable. A high roll yields excellent quality, fast service, or lasting benefit.
 
-### Wealth Roll Results  
+### Wealth Roll Results
 
 A wealth roll works like an action roll, but instead of measuring success or failure, it measures the **quality of what you secure relative to your current wealth score**. A character with higher wealth will naturally get better outcomes overall, even on low-edge results.  
 
